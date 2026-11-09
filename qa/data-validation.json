@@ -1,0 +1,13 @@
+{
+  "charts": 3,
+  "periods": 33,
+  "events": 52,
+  "relationships": 17,
+  "sourceReferences": 148,
+  "uniqueVerses": 434,
+  "normalizedTextDifferences": 2,
+  "resolvedSpellingVariants": 2,
+  "dataBytes": 321544,
+  "errors": [],
+  "sha256": "079476c08391e29d6856d3f5cf073d9d3275a471c18305602ba64c4e2bddedf0"
+}

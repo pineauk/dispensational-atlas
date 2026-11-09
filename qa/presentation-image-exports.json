@@ -1,0 +1,50 @@
+[
+  {
+    "id": "larkin-ages",
+    "theme": "light",
+    "svg": "larkin-ages-overview-light.svg",
+    "png": "larkin-ages-overview-light.png",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "larkin-ages",
+    "theme": "dark",
+    "svg": "larkin-ages-overview-dark.svg",
+    "png": "larkin-ages-overview-dark.png",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "larkin-dividing",
+    "theme": "light",
+    "svg": "larkin-dividing-overview-light.svg",
+    "png": "larkin-dividing-overview-light.png",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "larkin-dividing",
+    "theme": "dark",
+    "svg": "larkin-dividing-overview-dark.svg",
+    "png": "larkin-dividing-overview-dark.png",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "scofield",
+    "theme": "light",
+    "svg": "scofield-overview-light.svg",
+    "png": "scofield-overview-light.png",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "id": "scofield",
+    "theme": "dark",
+    "svg": "scofield-overview-dark.svg",
+    "png": "scofield-overview-dark.png",
+    "width": 3840,
+    "height": 2160
+  }
+]

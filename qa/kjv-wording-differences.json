@@ -1,0 +1,16 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 3,
+    "primary": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter.",
+    "secondary": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter."
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "verse": 20,
+    "primary": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.",
+    "secondary": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
+  }
+]

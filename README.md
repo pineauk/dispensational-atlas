@@ -2,8 +2,8 @@
 
 A static interactive study app presenting three historical arrangements separately:
 
-1. Clarence Larkin, **Ages and Dispensations** — the larger plate in *Rightly Dividing the Word*, with eight numbered dispensations.
-2. Clarence Larkin, **Rightly Dividing the Word of Truth** — the plate and chapter in the enlarged *Dispensational Truth*.
+1. Clarence Larkin, **Ages and Dispensations** — the larger plate in _Rightly Dividing the Word_, with eight numbered dispensations.
+2. Clarence Larkin, **Rightly Dividing the Word of Truth** — the plate and chapter in the enlarged _Dispensational Truth_.
 3. C. I. Scofield, **The Seven Dispensations** — a new visualization of his original chapter, verified against the restored original-edition scan.
 
 The modern diagrams are schematic reading maps, not proportional chronologies or diplomatic redraws. The Larkin original plates and Scofield original chapter are available in the app. Source quotations, modern summaries, edition differences, and KJV reader text are labelled separately. The original author's expressly marked R.V. quotations are retained as quotations; they are not substituted for KJV reader text.
@@ -30,8 +30,8 @@ The source datasets, source memos, visual review records, and original scan evid
 
 ## Primary source locations
 
-- Larkin *Rightly Dividing the Word*: https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf
-- Larkin *Dispensational Truth*, chapter V: https://preservedwords.com/disptruth/chap5.html
+- Larkin _Rightly Dividing the Word_: https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf
+- Larkin _Dispensational Truth_, chapter V: https://preservedwords.com/disptruth/chap5.html
 - Scofield restored original chapter: https://www.wholesomewords.org/etexts/scofield/scofrdiv.pdf#page=10
 
 Refer to the in-app source register for edition distinctions and the digital KJV text sources. The app preserves the historical interpretations and labels; it does not attempt to reconcile the authors into one system.

@@ -1,0 +1,730 @@
+{
+  "id": "larkin-ages",
+  "title": "Ages and Dispensations",
+  "subtitle": "Eight dispensations, three ages, and time between the eternities",
+  "author": "Clarence Larkin",
+  "sourceTitle": "Rightly Dividing the Word (1921), chart on printed page 6 and chapter II, pages 7–28",
+  "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=21",
+  "originalImage": "/assets/larkin-ages-original.gif",
+  "alternateOriginalImage": "/assets/larkin-ages.gif",
+  "editionNote": "The modern view follows the 1921 book plate, which numbers eight dispensations, and matches the Clarence Larkin Estate’s Chart #108 preview. The smaller PreservedWords reproduction linked earlier omits the printed 8 and labels period 3 “Post Flood”; both reproductions remain available. Numbering and labels here follow the book plate.",
+  "description": "Larkin arranges eight dispensations inside three ages and distinguishes the Rapture from the Revelation. His unnumbered judgment interval and the Alpha and Omega eternities are retained separately. The arrangement is a study of his historical interpretation; widths do not measure elapsed time.",
+  "periods": [
+    {
+      "id": "alpha",
+      "number": null,
+      "title": "ALPHA OR “CREATIVE AGES”",
+      "shortTitle": "Creative Ages",
+      "start": "Before the chart’s “Time”",
+      "end": "Beginning of the Antediluvian Age",
+      "summary": "The chart places the Alpha or Creative Ages in eternity before its Time envelope. In the accompanying chapter, Larkin describes an original creation and a later restoration before Adam.",
+      "sourceExcerpt": "This creation was in the dateless past.",
+      "references": [
+        "Genesis 1:1",
+        "Genesis 1:2",
+        "Genesis 1:3-31",
+        "2 Peter 3:5-7"
+      ],
+      "details": [
+        {
+          "label": "Chart position",
+          "text": "Left of “Time between the Eternities”; unnumbered."
+        },
+        {
+          "label": "Interpretive distinction",
+          "text": "Larkin’s original creation / chaotic earth / restoration sequence belongs to his exposition. It is not a ninth numbered dispensation."
+        }
+      ],
+      "sourceLocation": "Chart, left eternity field; chapter II §I, “The Creative Ages,” printed pages 9–18.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "context",
+      "referenceBasis": "Accompanying chapter II, §I; these citations are not printed in the Alpha field."
+    },
+    {
+      "id": "edenic",
+      "number": "1",
+      "title": "EDENIC DISPENSATION",
+      "shortTitle": "Edenic",
+      "start": "Creation of Adam",
+      "end": "Expulsion from Eden",
+      "summary": "The Edenic period is the first of the two dispensations in Larkin’s Antediluvian Age. He identifies its governing condition as innocence and leaves its duration unknown.",
+      "sourceExcerpt": "This Dispensation extends from the creation of Adam to the Expulsion from the Garden.",
+      "references": ["Genesis 2:17"],
+      "details": [
+        {
+          "label": "Administration",
+          "text": "Innocence, in the accompanying chapter."
+        },
+        {
+          "label": "Chart labels",
+          "text": "Eden; The Fall; Paradise Lost."
+        },
+        {
+          "label": "Duration",
+          "text": "Larkin explicitly says its duration is unknown; no duration is assigned here."
+        }
+      ],
+      "sourceLocation": "Chart, circle 1; chapter II §II.1, printed page 18.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "Genesis 2:17 is cited in the following paragraph on the transition from innocence to conscience; the Edenic circle itself prints no verse."
+    },
+    {
+      "id": "antediluvian",
+      "number": "2",
+      "title": "ANTEDILUVIAN DISPENSATION",
+      "shortTitle": "Antediluvian",
+      "start": "The Fall",
+      "end": "The Flood",
+      "summary": "Larkin identifies the interval from the Fall to the Flood with conscience. The original circle contrasts the lines of Seth and Cain, and labels its Adam-to-Noah span as 1,656 years.",
+      "sourceExcerpt": "This extends from the “Fall” to the “Flood.”",
+      "references": ["Genesis 2:17", "Acts 17:30"],
+      "details": [
+        {
+          "label": "Administration",
+          "text": "Conscience, in the accompanying chapter."
+        },
+        {
+          "label": "Chart span",
+          "text": "“Adam to Noah — 1656 Years.” This is the chart’s historical label, not a newly calculated chronology."
+        },
+        {
+          "label": "Parallel lines",
+          "text": "Line of Seth; Line of Cain."
+        },
+        {
+          "label": "Age relationship",
+          "text": "The Antediluvian Age contains both the Edenic and Antediluvian dispensations."
+        }
+      ],
+      "sourceLocation": "Chart, circle 2; chapter II §II.2, printed pages 18–23.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "Accompanying chapter II, §II.2; the circle itself prints no verse."
+    },
+    {
+      "id": "post-diluvian",
+      "number": "3",
+      "title": "POST DILUVIAN",
+      "shortTitle": "Post-Diluvian",
+      "start": "Noah after the Flood",
+      "end": "Abraham",
+      "summary": "The chart’s third circle runs from Noah to Abraham. Larkin’s chapter describes human government and treats Babel’s divided languages and scattered peoples as its failure.",
+      "sourceExcerpt": "This was the “Dispensation of HUMAN GOVERNMENT.”",
+      "references": ["Genesis 11:1-9"],
+      "details": [
+        {
+          "label": "Chart endpoints",
+          "text": "Noah to Abraham."
+        },
+        {
+          "label": "Administration",
+          "text": "Human government, in the accompanying chapter."
+        },
+        {
+          "label": "Babel",
+          "text": "The chapter places the building of Babel 325 years after the Flood; that is Larkin’s historical chronology, not an app calculation."
+        },
+        {
+          "label": "Reproduction difference",
+          "text": "The 1921 book plate reads “Post Diluvian”; the smaller earlier-linked reproduction reads “Post Flood.”"
+        }
+      ],
+      "sourceLocation": "Chart, circle 3; chapter II §III.1, printed page 23.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "Genesis 11:1-9 is cited in chapter II, §III.1."
+    },
+    {
+      "id": "patriarchal",
+      "number": "4",
+      "title": "PATRIARCHAL",
+      "shortTitle": "Patriarchal",
+      "start": "Call of Abraham",
+      "end": "The Exodus / Moses",
+      "summary": "The chart labels this period Abraham to Moses. The chapter describes Abraham’s family and its eventual bondage in Egypt, giving the interval from Abraham’s call to the Exodus as 430 years.",
+      "sourceExcerpt": "This Dispensation extended from the “Call of Abraham” to the “Exodus,” a period of 430 years,",
+      "references": [],
+      "details": [
+        {
+          "label": "Chart endpoints",
+          "text": "Abraham to Moses."
+        },
+        {
+          "label": "Administration",
+          "text": "The family, in the accompanying chapter."
+        },
+        {
+          "label": "Duration in the chapter",
+          "text": "430 years from the Call of Abraham to the Exodus; no duration is printed inside this small chart circle."
+        },
+        {
+          "label": "Scripture on this plate",
+          "text": "No verse is printed inside the Patriarchal circle or its brief chapter-II paragraph."
+        }
+      ],
+      "sourceLocation": "Chart, circle 4; chapter II §III.2, printed pages 23–24.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation"
+    },
+    {
+      "id": "legal",
+      "number": "5",
+      "title": "LEGAL DISPENSATION",
+      "shortTitle": "Legal",
+      "start": "The Exodus / Moses",
+      "end": "Birth of Christ, in chapter II",
+      "summary": "The chart labels this circle Moses to Christ and 1,491 years. The accompanying chapter specifies the Exodus to Christ’s birth and describes Israel’s law and theocratic government.",
+      "sourceExcerpt": "This Dispensation extended from the “Exodus” to the “Birth of Christ,”",
+      "references": [],
+      "details": [
+        {
+          "label": "Administration",
+          "text": "Law, in the accompanying chapter."
+        },
+        {
+          "label": "Chart span",
+          "text": "Moses to Christ — 1491 Years."
+        },
+        {
+          "label": "Exact endpoint",
+          "text": "The chapter expressly says “Birth of Christ.” It is not silently changed to the cross or Pentecost."
+        },
+        {
+          "label": "Later observance",
+          "text": "Larkin separately says observance of Israel’s civil and ceremonial law ceased at Jerusalem’s destruction in A.D. 70."
+        }
+      ],
+      "sourceLocation": "Chart, circle 5; chapter II §III.3, printed page 24.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation"
+    },
+    {
+      "id": "ecclesiastical",
+      "number": "6",
+      "title": "ECCLESIASTICAL DISPENSATION",
+      "shortTitle": "Ecclesiastical",
+      "start": "Pentecost for the believer; the Cross for Christ",
+      "end": "Rapture for the believer; the Crown for Christ",
+      "summary": "Larkin describes the gathering of the Church under grace. He gives distinct bounds for the believer and for Christ, and the plate itself bears the broader label Christ to Antichrist.",
+      "sourceExcerpt": "from the “Cross” to the “Crown” for Christ, and from “Pentecost” to the “Rapture of the Church” for the Believer.",
+      "references": ["Romans 11:25", "Romans 6:14", "2 Peter 3:9", "Luke 18:8"],
+      "details": [
+        {
+          "label": "Administration",
+          "text": "Grace."
+        },
+        {
+          "label": "Believer’s bounds",
+          "text": "Pentecost to the Rapture of the Church."
+        },
+        {
+          "label": "Christ’s bounds",
+          "text": "Cross to Crown; kept distinct from the believer’s bounds."
+        },
+        {
+          "label": "Printed chart labels",
+          "text": "Christ to Antichrist; Kingdom in Mystery; The Church; Fulness of the Gentiles; Jews Scattered Among the Nations."
+        },
+        {
+          "label": "Parenthesis",
+          "text": "Larkin places the gathering of the Church between Israel’s dispersion and restoration."
+        }
+      ],
+      "sourceLocation": "Chart, circle 6; chapter II §III.4, printed pages 24–25.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "All four passages are cited in chapter II, §III.4."
+    },
+    {
+      "id": "judgment",
+      "number": null,
+      "title": "THE TRIBULATION",
+      "shortTitle": "Tribulation",
+      "start": "Rapture of the Church",
+      "end": "Revelation / return to Olivet",
+      "summary": "The plate places the Tribulation between the Rapture and Revelation. The chapter calls the intervening parenthesis a Dispensation of Judgment, without adding it to the eight-number list.",
+      "sourceExcerpt": "Between the “Ecclesiastical” and “Millennial” Dispensations there is another “Parenthetical Dispensation”",
+      "references": [
+        "2 Corinthians 5:10",
+        "Jeremiah 30:4-7",
+        "Daniel 12:1",
+        "Matthew 25:31-46"
+      ],
+      "details": [
+        {
+          "label": "Numbering",
+          "text": "Unnumbered interval in this plate; do not renumber the Messianic and Fulness-of-Times periods."
+        },
+        {
+          "label": "Church",
+          "text": "Caught out at the beginning and judged at the Judgment Seat of Christ."
+        },
+        {
+          "label": "Israel",
+          "text": "Larkin associates its judgment under Antichrist with Jacob’s trouble."
+        },
+        {
+          "label": "Nations",
+          "text": "Larkin places their judgment at the close of the Tribulation, upon Christ’s return."
+        }
+      ],
+      "sourceLocation": "Chart, unnumbered Tribulation circle; chapter II §III, judgment paragraph, printed page 25.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "interval",
+      "referenceBasis": "These passages are explicit in the accompanying judgment paragraph; 2 Corinthians 5:10 is also printed above the plate."
+    },
+    {
+      "id": "messianic",
+      "number": "7",
+      "title": "MESSIANIC DISPENSATION",
+      "shortTitle": "Messianic",
+      "start": "Second Coming: Revelation",
+      "end": "End of the Millennium and the transition by fire",
+      "summary": "The first part of Larkin’s Age of Ages is also the seventh dispensation: Christ’s thousand-year reign. The chapter describes righteousness as its governing principle and places a final rebellion at its end.",
+      "sourceExcerpt": "the “Messianic Dispensation” or rule of Christ as King.",
+      "references": [
+        "Revelation 20:1-7",
+        "Deuteronomy 28:13",
+        "Jeremiah 31:31-37",
+        "Hebrews 8:7-13",
+        "Isaiah 11:1",
+        "Isaiah 11:4",
+        "Revelation 2:27",
+        "Revelation 19:15",
+        "Psalms 2:9",
+        "Revelation 20:7-10"
+      ],
+      "details": [
+        {
+          "label": "Printed duration",
+          "text": "1000 Years."
+        },
+        {
+          "label": "Age relationship",
+          "text": "The Millennial Age is the first subdivision of the Age of Ages."
+        },
+        {
+          "label": "Administration",
+          "text": "Righteousness, in the accompanying chapter."
+        },
+        {
+          "label": "Closing distinction",
+          "text": "Final rebellion, renovation by fire, second resurrection and Great White Throne are kept distinct from the earlier Judgment Seat of Christ."
+        }
+      ],
+      "sourceLocation": "Chart, circle 7; chapter II §IV.1, printed pages 27–28.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "All listed passages are cited in chapter II, §IV.1."
+    },
+    {
+      "id": "fulness",
+      "number": "8",
+      "title": "DISPENSATION OF THE FULNESS OF TIMES",
+      "shortTitle": "Fulness of Times",
+      "start": "After the renovation of the earth by fire",
+      "end": "Surrender of the Perfect Kingdom to the Father",
+      "summary": "Larkin’s Perfect Age has the new heaven and new earth and Paradise restored. In his arrangement it follows the Millennium within the Age of Ages, before the separate Omega eternities.",
+      "sourceExcerpt": "This “Perfect Kingdom” is also a “Dispensation,”",
+      "references": ["1 Corinthians 15:28", "Ephesians 1:10"],
+      "details": [
+        {
+          "label": "Chart numbering",
+          "text": "8 is printed on the 1921 book plate and Estate preview; chapter II also explicitly lists it eighth."
+        },
+        {
+          "label": "Printed labels",
+          "text": "Perfect Age; New Heaven; New Earth; Paradise Restored."
+        },
+        {
+          "label": "Age relationship",
+          "text": "Second subdivision of the Age of Ages; paired with the Millennium in the Kingdom of the Son of Man."
+        },
+        {
+          "label": "Outer eternity",
+          "text": "The subsequent Omega “Ages of the Ages” are a separate field in Larkin’s diagram."
+        }
+      ],
+      "sourceLocation": "Chart, circle 8; chapter II §IV.2 and §V, printed page 28.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "dispensation",
+      "referenceBasis": "Both passages are cited in chapter II, §IV.2."
+    },
+    {
+      "id": "omega",
+      "number": null,
+      "title": "OMEGA OR “AGES OF THE AGES”",
+      "shortTitle": "Ages of the Ages",
+      "start": "Surrender of the Perfect Kingdom to the Father",
+      "end": "Eternity",
+      "summary": "Beyond the chart’s Time envelope, Larkin places the Omega or Ages of the Ages. His chapter associates their beginning with the surrender of the Perfect Kingdom to the Father.",
+      "sourceExcerpt": "what we speak of as “Time” ceases,",
+      "references": ["Ephesians 2:7", "Revelation 20:10", "Revelation 22:5"],
+      "details": [
+        {
+          "label": "Chart position",
+          "text": "Right eternity field, outside the Age of Ages and outside “Time between the Eternities.”"
+        },
+        {
+          "label": "Numbering",
+          "text": "Unnumbered; it is not an additional numbered dispensation."
+        }
+      ],
+      "sourceLocation": "Chart, right eternity field; chapter II §V, printed page 28.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "kind": "eternity",
+      "referenceBasis": "All three passages are explicit in chapter II, §V."
+    }
+  ],
+  "events": [
+    {
+      "id": "creation-of-adam",
+      "title": "Creation of Adam",
+      "afterPeriod": "alpha",
+      "summary": "The Edenic dispensation begins with Adam’s creation in Larkin’s chapter.",
+      "references": ["Genesis 1:27"],
+      "sourceLocation": "Chapter II, printed page 18.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "fall",
+      "title": "The Fall · Paradise Lost",
+      "afterPeriod": "edenic",
+      "summary": "The chart places the Fall at the transition out of Eden, with Paradise Lost below the first circle.",
+      "references": ["Genesis 2:17"],
+      "sourceLocation": "Chart, left-hand transition; chapter II §II.1–2.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "flood",
+      "title": "The Flood",
+      "afterPeriod": "antediluvian",
+      "summary": "The Flood ends the Antediluvian Age and begins the Present Age in this chart.",
+      "references": ["2 Peter 2:4-9"],
+      "sourceLocation": "Chart, boundary between circles 2 and 3; chapter II §II.2–III.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "babel",
+      "title": "Babel and the scattering",
+      "afterPeriod": "post-diluvian",
+      "summary": "The chapter describes Babel as the failure of human government. The plate’s Noah-to-Abraham interval still retains Abraham as its endpoint.",
+      "references": ["Genesis 11:1-9"],
+      "sourceLocation": "Chapter II §III.1, printed page 23.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "withinPeriod": "post-diluvian",
+      "placement": "during"
+    },
+    {
+      "id": "call-abraham",
+      "title": "Call of Abraham",
+      "afterPeriod": "post-diluvian",
+      "summary": "The chart transitions from Noah-to-Abraham to Abraham-to-Moses; the chapter calls the latter’s beginning Abraham’s call.",
+      "references": [],
+      "sourceLocation": "Chart, circles 3–4; chapter II §III.2, printed page 23.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "exodus",
+      "title": "The Exodus · Moses",
+      "afterPeriod": "patriarchal",
+      "summary": "The chapter closes the Patriarchal period at the Exodus and begins the Legal period there.",
+      "references": [],
+      "sourceLocation": "Chapter II §III.2–3, printed pages 23–24.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "first-coming",
+      "title": "First Coming",
+      "afterPeriod": "legal",
+      "summary": "The plate compresses the First Coming beside the cross. The chapter separately specifies Christ’s birth as the Legal period’s endpoint.",
+      "references": [],
+      "sourceLocation": "Chart, First Coming and cross; chapter II §III.3–4, printed page 24.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "resurrection-christ",
+      "title": "Resurrection of Christ · First Fruits",
+      "afterPeriod": "legal",
+      "summary": "The first upward line out of the Grave is labelled Resurrection of Christ and First Fruits.",
+      "references": [],
+      "sourceLocation": "Chart, lower vertical line beside the cross.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "ascension",
+      "title": "Ascension",
+      "afterPeriod": "legal",
+      "summary": "The upward line labelled Ascension leads to the Priesthood of Christ above the Church interval.",
+      "references": [],
+      "sourceLocation": "Chart, upward line above the cross.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "holy-spirit",
+      "title": "Descent of the Holy Spirit",
+      "afterPeriod": "legal",
+      "summary": "The downward line beside the Ascension marks the Holy Spirit’s descent; the chapter names Pentecost as the believer’s starting point.",
+      "references": [],
+      "sourceLocation": "Chart, downward line at the Church’s beginning; chapter II §III.4.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "rapture",
+      "title": "Rapture · First Resurrection · Harvest",
+      "afterPeriod": "ecclesiastical",
+      "summary": "The Rapture precedes the Tribulation. The rising line from the Grave is labelled First Resurrection and Harvest.",
+      "references": ["1 Thessalonians 4:15-17"],
+      "sourceLocation": "Chart, rising lines at the Church’s right boundary.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "judgment-seat",
+      "title": "Judgment Seat of Christ",
+      "afterPeriod": "ecclesiastical",
+      "summary": "The plate places this judgment above the Rapture/Tribulation interval, distinct from the later Great White Throne.",
+      "references": ["2 Corinthians 5:10"],
+      "sourceLocation": "Chart, upper cloud-shaped judgment; chapter II, printed page 25.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf",
+      "withinPeriod": "judgment",
+      "placement": "during"
+    },
+    {
+      "id": "revelation",
+      "title": "Revelation · Second Coming · Olivet",
+      "afterPeriod": "judgment",
+      "summary": "Christ’s second-stage return ends the Present Age and introduces the Age of Ages. It is distinct from the Rapture.",
+      "references": ["2 Thessalonians 1:7-10", "Zechariah 14:4-10"],
+      "sourceLocation": "Chart, descending Revelation line and Olivet; chapter II, printed pages 7 and 23.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "last-rebellion",
+      "title": "Closing rebellion",
+      "afterPeriod": "messianic",
+      "summary": "The chapter places Satan’s release and humanity’s final rebellion at the Millennium’s close.",
+      "references": ["Revelation 20:7-10"],
+      "sourceLocation": "Chapter II §IV.1, printed page 27.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "renovation-fire",
+      "title": "Renovation of the earth by fire",
+      "afterPeriod": "messianic",
+      "summary": "Larkin places this fiery transition between the Millennial and Perfect Ages.",
+      "references": ["2 Peter 3:7-13"],
+      "sourceLocation": "Chart, fire between circles 7 and 8; chapter II, printed pages 27–28.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "second-resurrection",
+      "title": "Second Resurrection · Tares",
+      "afterPeriod": "messianic",
+      "summary": "The last rising line from the Grave bears the labels Second Resurrection and Tares and reaches the Great White Throne.",
+      "references": [],
+      "sourceLocation": "Chart, right-hand line from the Grave.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "white-throne",
+      "title": "Great White Throne Judgment",
+      "afterPeriod": "messianic",
+      "summary": "This judgment is drawn beyond the Millennium at the transition to the Perfect Age, separate from the Judgment Seat of Christ.",
+      "references": ["Revelation 20:11-15"],
+      "sourceLocation": "Chart, top-right judgment circle.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    },
+    {
+      "id": "kingdom-surrender",
+      "title": "The Kingdom surrendered to the Father",
+      "afterPeriod": "fulness",
+      "summary": "In Larkin’s chapter, this surrender closes Time and opens the Omega Ages of the Ages.",
+      "references": ["1 Corinthians 15:28"],
+      "sourceLocation": "Chapter II §IV.2–V, printed page 28.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf"
+    }
+  ],
+  "ages": [
+    {
+      "title": "1 · Antediluvian Age",
+      "startPeriod": "edenic",
+      "endPeriod": "antediluvian"
+    },
+    {
+      "title": "2 · The Present Age",
+      "startPeriod": "post-diluvian",
+      "endPeriod": "judgment"
+    },
+    {
+      "title": "3 · Age of Ages",
+      "startPeriod": "messianic",
+      "endPeriod": "fulness"
+    }
+  ],
+  "subAges": [
+    {
+      "title": "1 · Millennial Age",
+      "startPeriod": "messianic",
+      "endPeriod": "messianic"
+    },
+    {
+      "title": "2 · Perfect Age",
+      "startPeriod": "fulness",
+      "endPeriod": "fulness"
+    }
+  ],
+  "parallelBands": [
+    {
+      "title": "“Time” between the Eternities",
+      "startPeriod": "edenic",
+      "endPeriod": "fulness",
+      "summary": "The entire bounded central envelope; Alpha and Omega sit outside it.",
+      "references": [],
+      "sourceLocation": "Chart, outer Time envelope."
+    },
+    {
+      "title": "The Grave",
+      "startPeriod": "antediluvian",
+      "endPeriod": "messianic",
+      "summary": "The original lower channel starts at the Fall and continues to the Second Resurrection, with earlier upward branches for Christ’s First Fruits and the Harvest.",
+      "references": [],
+      "sourceLocation": "Chart, lower channel."
+    },
+    {
+      "title": "Times of the Gentiles",
+      "startPeriod": "legal",
+      "endPeriod": "judgment",
+      "summary": "A distinct line begins within the Legal period at Larkin’s printed “B.C. 606” and ends at the Revelation. This is not identical to the Fulness of the Gentiles.",
+      "references": ["Luke 21:24"],
+      "sourceLocation": "Chart, horizontal line beneath the Present Age.",
+      "startLabel": "B.C. 606 (Larkin’s chart label)",
+      "endLabel": "The Revelation"
+    },
+    {
+      "title": "Fulness of the Gentiles",
+      "startPeriod": "ecclesiastical",
+      "endPeriod": "ecclesiastical",
+      "summary": "Printed within the Church interval; distinguish it from the longer Times of the Gentiles.",
+      "references": ["Romans 11:25"],
+      "sourceLocation": "Chart, lower Church band; chapter II §III.4."
+    },
+    {
+      "title": "Kingdom in Mystery",
+      "startPeriod": "ecclesiastical",
+      "endPeriod": "ecclesiastical",
+      "summary": "The original upper band immediately over The Church.",
+      "references": [],
+      "sourceLocation": "Chart, upper Church band."
+    },
+    {
+      "title": "Priesthood of Christ",
+      "startPeriod": "ecclesiastical",
+      "endPeriod": "ecclesiastical",
+      "summary": "The upper bracket runs from the Ascension to the Judgment Seat of Christ.",
+      "references": [],
+      "sourceLocation": "Chart, top bracket.",
+      "startLabel": "Ascension of Christ",
+      "endLabel": "Judgment Seat of Christ"
+    },
+    {
+      "title": "Kingdom of the Son of Man",
+      "startPeriod": "messianic",
+      "endPeriod": "fulness",
+      "summary": "Larkin groups both the Millennial and Perfect Ages under this kingdom label.",
+      "references": [],
+      "sourceLocation": "Chart, Age of Ages; chapter II §IV.2."
+    }
+  ],
+  "notes": [
+    {
+      "title": "Which original is being followed?",
+      "text": "This study follows the plate on printed page 6 of Larkin’s 1921 Rightly Dividing the Word, cross-checked with the Estate’s Chart #108. The earlier PreservedWords reproduction is retained as an alternate, but is not used to overwrite the book’s printed numbering.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=21"
+    },
+    {
+      "title": "Eight numbered dispensations, plus a judgment parenthesis",
+      "text": "The book chart and chapter II explicitly include an eighth dispensation, Fulness of Times. The Tribulation is unnumbered on the plate; the prose additionally calls it a parenthetical Dispensation of Judgment. Its existence is retained without changing the eight-number sequence.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=22"
+    },
+    {
+      "title": "The ages are not interchangeable with the dispensations",
+      "text": "Larkin distinguishes an age by physical changes in the earth and a dispensation by a moral or probationary administration. Antediluvian Age includes two dispensations; Present Age contains the subsequent four and closes at the Revelation; Age of Ages contains the Millennial and Perfect Ages.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=22"
+    },
+    {
+      "title": "Exact Legal and Ecclesiastical endpoints",
+      "text": "Chapter II ends the Legal Dispensation at Christ’s birth. For the Ecclesiastical Dispensation it specifies Cross-to-Crown for Christ and Pentecost-to-Rapture for the believer. The chart also uses “Christ to Antichrist.” These are preserved as source distinctions, rather than harmonized into a new boundary.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=39"
+    },
+    {
+      "title": "Perfect Age is not the outer Omega field",
+      "text": "Larkin places the Perfect Age/Fulness of Times inside the Age of Ages and Time. He places the subsequent Omega Ages of the Ages outside Time, after the kingdom is surrendered to the Father.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=43"
+    },
+    {
+      "title": "Durations remain historical source labels",
+      "text": "The plate prints 1656 years for Adam-to-Noah, 1491 years for Moses-to-Christ, 1000 years for the Messianic Dispensation, and B.C. 606 on the Gentile-times line. The chapter adds 430 years for Abraham’s-call-to-Exodus and places Babel 325 years after the Flood. These are Larkin’s labels, not independently established chronology or dates for predicting the present.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=21"
+    },
+    {
+      "title": "KJV passages and the author’s interpretation",
+      "text": "Scripture references are taken from the plate or Larkin’s accompanying chapter and identified by location. The KJV reader is separate from Larkin’s historical commentary. The chart’s interpretive framework is attributed to Larkin rather than presented as wording quoted from the Bible.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=21"
+    },
+    {
+      "title": "What the modern diagram changes",
+      "text": "The layout is a schematic reading aid, with modern spacing and navigation. It retains the original period labels, numbering, major relationships and events; it does not claim that column width measures time. The zoomable original preserves every drawn detail.",
+      "sourceUrl": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/Images/04AgesAndDispensations.gif"
+    }
+  ],
+  "sourceUrls": [
+    {
+      "title": "Original 1921 book scan — chart, printed page 6",
+      "url": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=21"
+    },
+    {
+      "title": "Original 1921 book scan — chapter II, printed page 7",
+      "url": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/LarkinRightlyDividingTheWord.pdf#page=22"
+    },
+    {
+      "title": "High-resolution reproduction of the book plate",
+      "url": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/Images/04AgesAndDispensations.gif"
+    },
+    {
+      "title": "Clarence Larkin Estate catalogue — Chart #108",
+      "url": "https://www.larkinestate.com/charts.html"
+    },
+    {
+      "title": "Chapter II / III transcription (secondary access copy)",
+      "url": "https://www.earnestlycontendingforthefaith.com/Books/Clarence%20Larkin/RightlyDividingTheWord/RightlyDividingTheWord02.html"
+    },
+    {
+      "title": "Earlier-linked alternate reproduction at PreservedWords",
+      "url": "https://www.preservedwords.com/images/ldispen.gif"
+    }
+  ],
+  "unverified": [],
+  "sourceText": "SELECTED PASSAGES FROM CHAPTER II — AGES AND DISPENSATIONS\nClarence Larkin, Rightly Dividing the Word, 1921.\nThese selected passages are a reading aid, not the complete chapter. Use the linked original scan to inspect the complete text and its typography. Quotation marks are normalized below; wording is retained.\n\nPRINTED PAGE 18 — EDENIC DISPENSATION\nThis Dispensation extends from the creation of Adam to the Expulsion from the Garden. As to its duration we know nothing. It was probably very short, and was the “Dispensation of INNOCENCE.”\n\nPRINTED PAGE 18 — ANTE-DILUVIAN DISPENSATION\nThis extends from the “Fall” to the “Flood.” It was the “Dispensation of CONSCIENCE,” and shows what man will do when guided only by his conscience.\n\nPRINTED PAGE 23 — THE PRESENT AGE\nThis “Age” extends from the Flood to the second stage of Christ’s Second Coming, called the “Revelation.” It covers four Dispensations.\n\nPRINTED PAGE 23 — POST-DILUVIAN DISPENSATION\nThis was the “Dispensation of HUMAN GOVERNMENT.”\n\nPRINTED PAGES 23–24 — PATRIARCHAL DISPENSATION\nThis Dispensation extended from the “Call of Abraham” to the “Exodus,” a period of 430 years, and is known as the “Dispensation of THE FAMILY.”\n\nPRINTED PAGE 24 — LEGAL DISPENSATION\nThis Dispensation extended from the “Exodus” to the “Birth of Christ,” and is known as the “Dispensation of LAW.”\n\nPRINTED PAGE 24 — ECCLESIASTICAL DISPENSATION\nThis is the “Dispensation of GRACE,” and extends from the “Cross” to the “Crown” for Christ, and from “Pentecost” to the “Rapture of the Church” for the Believer.\n\nPRINTED PAGE 25 — PARENTHETICAL JUDGMENT\nBetween the “Ecclesiastical” and “Millennial” Dispensations there is another “Parenthetical Dispensation” the “DISPENSATION OF JUDGMENT,” during which the Jews, the Gentiles, and the Church are to be judged.\n\nPRINTED PAGE 25 — THE AGE OF AGES\nThis is a “Dual Age,” and includes the “Millennial Age” and the “Perfect Age,” between which the earth is “Renovated by Fire.”\n\nPRINTED PAGE 27 — THE MILLENNIAL AGE\nThis is not only an “Age,” it is also a “Dispensation,” the “Messianic Dispensation” or rule of Christ as King.\n\nPRINTED PAGE 28 — THE PERFECT AGE\nThis “Perfect Kingdom” is also a “Dispensation,” the “Dispensation of the FULNESS OF TIMES.” Eph. 1:10. The “Millennial Kingdom” and the “Perfect Kingdom” make up the “Kingdom of the SON OF MAN.”\n\nPRINTED PAGE 28 — THE AGES OF THE AGES\nWith the surrender of the “Perfect Kingdom” to the Father, what we speak of as “Time” ceases, and the “Eternal Ages,” called the “Ages of the Ages” begin.\n",
+  "sourceQuoteChecks": [
+    "This Dispensation extends from the creation of Adam to the Expulsion from the Garden.",
+    "This extends from the “Fall” to the “Flood.”",
+    "This Dispensation extended from the “Exodus” to the “Birth of Christ,”",
+    "from the “Cross” to the “Crown” for Christ, and from “Pentecost” to the “Rapture of the Church” for the Believer.",
+    "Between the “Ecclesiastical” and “Millennial” Dispensations there is another “Parenthetical Dispensation”",
+    "This “Perfect Kingdom” is also a “Dispensation,”"
+  ],
+  "verification": {
+    "checkedOn": "2026-11-08",
+    "originalEdition": "Copyright 1921; original book copyright leaf visually inspected.",
+    "chartPage": "Printed page 6 / PDF page 21",
+    "chapterPages": "Printed pages 7–28 / PDF pages 22–43",
+    "scanChecks": [
+      "Original chart image viewed",
+      "Estate catalogue preview compared",
+      "Original scanned book chart viewed",
+      "Original printed pages 7, 18, 23, 24, 25, 27 and 28 checked against explanatory data"
+    ],
+    "referenceScope": "Only passages explicitly printed on the selected plate or cited in its accompanying original chapter are listed."
+  }
+}

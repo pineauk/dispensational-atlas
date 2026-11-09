@@ -1,0 +1,1038 @@
+{
+  "id": "larkin-dividing",
+  "author": "Clarence Larkin",
+  "title": "Rightly Dividing the Word of Truth",
+  "subtitle": "Creation, the dispensations, the judgments, and the ages to come",
+  "sourceTitle": "Dispensational Truth, chart “Rightly Dividing the Word of Truth” and chapter V",
+  "sourceUrl": "https://preservedwords.com/disptruth/chap5.html",
+  "references": ["2 Timothy 2:15"],
+  "originalImage": "/assets/larkin-dividing.gif",
+  "originalImageUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+  "editionNote": "Larkin’s chart from Dispensational Truth (enlarged edition, 1920). It is item 8 in the online book’s chart contents and item 22 in the Estate’s individual-chart catalogue. The drawing numbers the Perfect Age as 8; chapter V separately describes seven probationary tests before the new heaven and new earth.",
+  "description": "An interactive study of Larkin’s main chart. The modern view preserves the eight numbered labels visible in the drawing, its unnumbered judgment interval, its creation context, and its distinction between the Perfect Age and the Omega ages. This is Larkin’s historical interpretive scheme; summaries describe his source rather than substitute a harmonized chronology.",
+  "periods": [
+    {
+      "id": "original-earth",
+      "number": null,
+      "title": "The Original Earth",
+      "shortTitle": "Original earth",
+      "start": "Dateless past",
+      "end": "The chaotic earth",
+      "summary": "Larkin places the original creation before the six days of restoration. His diagram associates the original earth with the “Creative Ages” and with the earlier part of the Satan narrative.",
+      "sourceExcerpt": "This creation was in the dateless past.",
+      "references": ["Genesis 1:1", "2 Peter 3:5-6", "Isaiah 14:13-14"],
+      "details": [
+        {
+          "label": "Chart labels",
+          "text": "Generation; Creation of the Earth; “The World That Then Was”; Alpha — “Creative Ages”."
+        },
+        {
+          "label": "Chronology",
+          "text": "No calendar date or numerical duration is given for the original earth."
+        },
+        {
+          "label": "Interpretation",
+          "text": "The pre-Adamite earth and creation/restoration distinction are Larkin’s interpretation, retained as such."
+        }
+      ],
+      "sourceLocation": "Chart: far-left creation group; chapter V, I.1, “The Original or Pre-Adamite Earth”.",
+      "kind": "context"
+    },
+    {
+      "id": "chaotic-earth",
+      "number": null,
+      "title": "The Chaotic Earth",
+      "shortTitle": "Chaotic earth",
+      "start": "The original earth made waste",
+      "end": "Restoration of the earth",
+      "summary": "Larkin reads Genesis 1:2 as a catastrophic condition following an earlier creation. The chart distinguishes this chaotic earth from both the original and restored earth. His explanatory prose presents the connection with Satan’s rebellion as an interpretation, using qualifying language.",
+      "sourceExcerpt": "What caused the earth to become a \"Waste\" after its original creation is not clearly revealed.",
+      "references": ["Genesis 1:2", "Isaiah 45:18", "2 Peter 3:5-6"],
+      "details": [
+        {
+          "label": "Source distinction",
+          "text": "The diagram shows a separate darkened earth labelled “The Chaotic Earth”."
+        },
+        {
+          "label": "Duration",
+          "text": "The chapter says neither the preceding interval nor the duration of the chaotic condition is known."
+        },
+        {
+          "label": "Translation note",
+          "text": "The chapter quotes Isaiah 45:18 with an explicit R.V. marker. The app’s Scripture reader supplies KJV separately."
+        }
+      ],
+      "sourceLocation": "Chart: second earth image; chapter V, I.2, “The Chaotic Earth”.",
+      "kind": "context"
+    },
+    {
+      "id": "restored-earth",
+      "number": null,
+      "title": "The Restored Earth",
+      "shortTitle": "Restored earth",
+      "start": "The creative week",
+      "end": "The restored earth and humanity",
+      "summary": "The third earth image contains the seven-day “Creative Week”. Larkin treats these days as restoration following the chaotic earth. This contextual panel is not an additional numbered dispensation.",
+      "sourceExcerpt": "THE SEVEN DAYS OF THE RESTORATION WORK",
+      "references": ["Genesis 1:3-31", "Genesis 2:1-3"],
+      "details": [
+        {
+          "label": "Days 1–3, chart labels",
+          "text": "Cosmic Light; Firmament; Dry Land and Vegetation."
+        },
+        {
+          "label": "Days 4–7, chart labels",
+          "text": "Solar Light; Fish and Fowl; Land Animals and Man; Sabbath."
+        },
+        {
+          "label": "Chart reference",
+          "text": "The drawing gives Genesis 1:3–2:3; the reader splits this cross-chapter range into Genesis 1:3–31 and 2:1–3."
+        },
+        {
+          "label": "Relationship to Eden",
+          "text": "The restoration group supplies the creation context for the Edenic period; no additional duration is implied by its display as a panel."
+        }
+      ],
+      "sourceLocation": "Chart: “The Creative Week”, “The Present Earth”, and “The Restored Earth”; chapter V, I.3.",
+      "kind": "context"
+    },
+    {
+      "id": "edenic",
+      "number": "1",
+      "title": "Edenic Dispensation",
+      "shortTitle": "Innocence",
+      "start": "Creation of Adam",
+      "end": "Expulsion from the Garden",
+      "summary": "Larkin’s first numbered dispensation is the condition of innocence in Eden. The Fall and expulsion close it. The explanatory chapter gives no known duration.",
+      "sourceExcerpt": "This Dispensation extends from the creation of Adam to the Expulsion from the Garden.",
+      "references": [
+        "Genesis 2:23",
+        "Genesis 3:21",
+        "Revelation 21:3",
+        "John 3:18"
+      ],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Innocence."
+        },
+        {
+          "label": "Closing labels",
+          "text": "The Fall; The Expulsion."
+        },
+        {
+          "label": "Duration",
+          "text": "“As to its duration we know nothing” is Larkin’s explicit statement."
+        },
+        {
+          "label": "Reference scope",
+          "text": "These reading references are cited in the explanatory Edenic section; they are not all printed inside the small Edenic circle."
+        }
+      ],
+      "sourceLocation": "Chart: numbered Edenic circle; chapter V, II.1, “The Edenic Dispensation”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "antediluvian",
+      "number": "2",
+      "title": "Antediluvian Dispensation",
+      "shortTitle": "Conscience",
+      "start": "The Fall",
+      "end": "The Flood",
+      "summary": "The chart contrasts the line of Seth and the line of Cain, shows Enoch, and ends with the Flood. Larkin calls this the dispensation of Conscience and prints a duration of 1656 years.",
+      "sourceExcerpt": "This Dispensation extends from the \"Fall\" to the \"Flood.\"",
+      "references": [
+        "Genesis 5:22-24",
+        "Genesis 6:2-4",
+        "Romans 2:15",
+        "2 Peter 2:4",
+        "Jude 1:6"
+      ],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Conscience."
+        },
+        {
+          "label": "Printed duration",
+          "text": "1656 years; reproduced as Larkin’s chronology."
+        },
+        {
+          "label": "Chart branches",
+          "text": "Line of Seth; Line of Cain; Enoch; Flood; “The Wicked Antediluvians”; “Sons of God or Fallen Angels”."
+        },
+        {
+          "label": "Source interpretation",
+          "text": "The explanatory chapter identifies the “sons of God” in Genesis 6 with angels. This is preserved as Larkin’s reading, not silently changed to a Sethite-line interpretation."
+        }
+      ],
+      "sourceLocation": "Chart: period 2 and its downward branches; chapter V, II.2, “The Antediluvian Dispensation”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "postdiluvian",
+      "number": "3",
+      "title": "Postdiluvian Dispensation",
+      "shortTitle": "Human government",
+      "start": "The Flood",
+      "end": "Call of Abraham",
+      "summary": "Larkin depicts Babel inside the post-Flood period of Human Government. His prose places the dispersion about 325 years after the Flood and says this dispensation lasted 102 years longer, for a total of 427 years.",
+      "sourceExcerpt": "This was the Dispensation of \"Human Government.\"",
+      "references": [
+        "Genesis 8:20-22",
+        "Genesis 11:1-3",
+        "Genesis 10:8-10",
+        "Genesis 10:25",
+        "Acts 2:4"
+      ],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Human Government."
+        },
+        {
+          "label": "Printed duration",
+          "text": "427 years; retained without recalculation."
+        },
+        {
+          "label": "Babel is internal",
+          "text": "Babel is shown within the circle; it is not substituted for the entire duration’s ending boundary."
+        },
+        {
+          "label": "Reference scope",
+          "text": "The chapter cites Genesis 11:1–3 in this account; the chart’s Babel image itself has no printed verse range."
+        }
+      ],
+      "sourceLocation": "Chart: period 3, Babel; chapter V, III.1, “The Post-Diluvian Dispensation”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "patriarchal",
+      "number": "4",
+      "title": "Patriarchal Dispensation",
+      "shortTitle": "Family",
+      "start": "Call of Abraham",
+      "end": "The Exodus",
+      "summary": "Larkin’s fourth numbered dispensation is called Family in this chart. Its illustrations show Abraham and Egypt, followed by the Exodus. The chapter gives its extent as the call of Abraham to the Exodus.",
+      "sourceExcerpt": "This Dispensation extended from the \"Call of Abraham\" to the \"Exodus,\" a period of 430 years, and is known as the Dispensation of \"The Family.\"",
+      "references": ["Genesis 12:1-3"],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Family; chapter wording: “The Family”. This is not relabelled “Promise” in the faithful-source view."
+        },
+        {
+          "label": "Printed duration",
+          "text": "430 years; Larkin’s own label."
+        },
+        {
+          "label": "Closing condition",
+          "text": "Egyptian bondage is the failure described in the chapter; the Exodus begins the next dispensation."
+        },
+        {
+          "label": "Reference scope",
+          "text": "Genesis 12:1–3 is cited in chapter V’s introductory account of Abraham; no verse reference is printed inside this small chart circle."
+        }
+      ],
+      "sourceLocation": "Chart: period 4, Abraham and Egypt; chapter V, III.2, “The Patriarchal Dispensation”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "legal",
+      "number": "5",
+      "title": "Legal Dispensation",
+      "shortTitle": "Law",
+      "start": "The Exodus",
+      "end": "Christ / First Advent",
+      "summary": "The fifth circle is labelled Law and “Moses to Christ”. It includes Sinai, Israel, the nations, the Assyrian and Babylonian captivities, and the prophetic weeks. The source is not uniform about the precise closing endpoint: the chapter first names Christ’s birth, later describes the crucifixion as its close, while the diagram places the First Advent at the Cross.",
+      "sourceExcerpt": "This Dispensation extended from the \"Exodus\" to the \"Birth Of Christ,\" a period of 1491(? ) years, and is known as the Dispensation of the \"Law.\"",
+      "references": ["Acts 13:20", "Daniel 9:24-27", "Luke 21:24"],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Law; “Moses to Christ”."
+        },
+        {
+          "label": "Chapter’s duration",
+          "text": "1491(? ) years in the online transcription. The uncertainty mark is retained; no corrected modern date is asserted."
+        },
+        {
+          "label": "Printed chronology",
+          "text": "The diagram labels B.C. 606 for the beginning of the Times of the Gentiles, and B.C. 445 / A.D. 30 around the 69 Weeks."
+        },
+        {
+          "label": "Distinct lines",
+          "text": "The “Times of the Gentiles” line continues beyond this dispensation, through the Church period, to the Revelation. It is not identical with the “Fulness of the Gentiles”."
+        }
+      ],
+      "sourceLocation": "Chart: period 5, the 69 Weeks and Times of the Gentiles; chapter V, III.3, “The Legal Dispensation”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "ecclesiastical",
+      "number": "6",
+      "title": "Ecclesiastical Dispensation",
+      "shortTitle": "Grace",
+      "start": "Descent of the Holy Spirit",
+      "end": "Rapture of the Church",
+      "summary": "The sixth dispensation is Grace. The chapter distinguishes Christ’s “Cross to Crown” work from the believer’s interval between the descent of the Holy Spirit and the Church’s rapture. The diagram separates the Church, the Jews scattered among the nations, and the nations, while drawing the priesthood of Christ above.",
+      "sourceExcerpt": "This \"New Body\" is not under LAW but GRACE.",
+      "references": [
+        "Matthew 16:18",
+        "Ephesians 3:3-5",
+        "Ephesians 3:9",
+        "1 Corinthians 12:12-13",
+        "Romans 11:25",
+        "Romans 6:14",
+        "Matthew 13:10-50"
+      ],
+      "details": [
+        {
+          "label": "Source keyword",
+          "text": "Grace."
+        },
+        {
+          "label": "Chart imagery",
+          "text": "“Mystery Form of the Kingdom”; the Pearl / Church; the Hid Treasure; Jews scattered among the nations; emblem of the nations."
+        },
+        {
+          "label": "Two Gentile labels",
+          "text": "“Fulness of the Gentiles” is within this period. “Times of the Gentiles”, with Luke 21:24, is the longer line beneath it."
+        },
+        {
+          "label": "Heavenly branch",
+          "text": "Ascension of Christ; Priesthood of Christ; Paradise above, described as the location of the righteous dead since Christ’s resurrection."
+        },
+        {
+          "label": "Duration",
+          "text": "No calculated end date is supplied for the Church’s rapture."
+        }
+      ],
+      "sourceLocation": "Chart: period 6 and upper ascension/priesthood branch; chapter V, III.4, “The Ecclesiastical Dispensation”.",
+      "kind": "dispensation",
+      "referenceProvenance": "References are printed on the plate or in chapter V, III.4. The online chapter prints “I Cor. 12-12-13”; this punctuation is normalized to 1 Corinthians 12:12–13 for the KJV reader without changing its chapter or verse numbers."
+    },
+    {
+      "id": "judgment-interval",
+      "number": null,
+      "title": "Daniel’s Seventieth Week",
+      "shortTitle": "Judgment interval",
+      "start": "The Rapture",
+      "end": "The Revelation",
+      "summary": "Between the Church period and the Messianic period, the chart depicts Daniel’s Seventieth Week and the two stages of the Second Advent. Larkin’s chapter calls the intervening period the unnumbered “Dispensation of Judgment”. It contains judgment of believers for works above, the Jews under Antichrist on earth, and the nations at its close.",
+      "sourceExcerpt": "DISPENSATION OF JUDGMENT",
+      "references": [
+        "Daniel 9:27",
+        "2 Corinthians 5:10",
+        "Jeremiah 30:4-6",
+        "Daniel 12:1",
+        "Matthew 25:31-33",
+        "Revelation 12:7-12"
+      ],
+      "details": [
+        {
+          "label": "Numbering",
+          "text": "An unnumbered interval in the chart. It is not assigned the number 7 or 8."
+        },
+        {
+          "label": "Second Advent",
+          "text": "The Rapture and the Revelation are distinguished; “Second Advent” spans both."
+        },
+        {
+          "label": "Judgments",
+          "text": "No. 2: Believers for Works. No. 3: The Jews. No. 4: The Nations."
+        },
+        {
+          "label": "Other chart labels",
+          "text": "Christ meeting His Church; the Judgment Seat of Christ; the Marriage Feast; War in Heaven / Dragon Cast Out; Antichrist."
+        },
+        {
+          "label": "Citation fidelity",
+          "text": "The chapter prints Jeremiah 30:4–6 for the Time of Jacob’s Trouble; that printed range is retained. The named phrase occurs in the following verse, 30:7."
+        }
+      ],
+      "sourceLocation": "Chart: interval between periods 6 and 7; chapter V, “Dispensation of Judgment”.",
+      "kind": "interval"
+    },
+    {
+      "id": "messianic",
+      "number": "7",
+      "title": "Messianic Dispensation",
+      "shortTitle": "Messianic kingdom",
+      "start": "The Revelation of Christ",
+      "end": "End of the millennium",
+      "summary": "The seventh numbered dispensation lies inside the Millennial Age. The drawing labels 1000 years, Israel as the head of the nations, the Gentile nations in blessing, and the millennial earth. The chapter names Righteousness as the governing principle and explains the final rebellion after Satan is loosed.",
+      "sourceExcerpt": "The Government will be based on \"Righteousness.\"",
+      "references": [
+        "Revelation 20:1-3",
+        "Revelation 20:7-9",
+        "Deuteronomy 28:13",
+        "Isaiah 35:1-2",
+        "Jeremiah 31:31-33",
+        "Hebrews 8:7-9",
+        "Psalm 2:9"
+      ],
+      "details": [
+        {
+          "label": "Printed duration",
+          "text": "1000 years."
+        },
+        {
+          "label": "Chart labels",
+          "text": "Israel the “Head” of the Nations; Gentile Nations in Blessing; The Millennial Earth."
+        },
+        {
+          "label": "Source principle",
+          "text": "Righteousness is named in the explanatory chapter; it is not substituted for the chart’s Messianic Dispensation title."
+        },
+        {
+          "label": "Final transition",
+          "text": "Satan loosed; final rebellion; the Great White Throne and renovation of the earth by fire appear at the transition to the Perfect Age."
+        }
+      ],
+      "sourceLocation": "Chart: period 7 within Millennial Age; chapter V, IV.1, “The Millennial Age”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "fulness",
+      "number": "8",
+      "title": "Dispensation of the Fulness of Times",
+      "shortTitle": "Fulness of times",
+      "start": "New Heaven and New Earth",
+      "end": "Surrender of the perfect kingdom to the Father",
+      "summary": "The drawing explicitly numbers this dispensation 8 inside the Perfect Age. It follows the renovation by fire and depicts the New Earth and New Jerusalem. Larkin treats the Millennial and Perfect kingdoms together as the Kingdom of the Son of Man, before the “God all and in all” boundary and Omega ages.",
+      "sourceExcerpt": "This \"Perfect Kingdom\" is also a Dispensation, the \"Dispensation of the Fulness of Times.\"",
+      "references": [
+        "Ephesians 1:10",
+        "2 Peter 3:13",
+        "Isaiah 65:17",
+        "Revelation 21:1",
+        "Revelation 21:24",
+        "1 Corinthians 15:24-28"
+      ],
+      "details": [
+        {
+          "label": "Printed number",
+          "text": "8. This number is visible in the original drawing."
+        },
+        {
+          "label": "Source labels",
+          "text": "Perfect Age; Dispensation of the Fulness of Times; The New Earth; “The Nations of Them Which Are Saved Shall Walk in the Light of It”."
+        },
+        {
+          "label": "New Jerusalem",
+          "text": "The city appears above the earth and again in the Perfect Age portion of the drawing."
+        },
+        {
+          "label": "Boundary",
+          "text": "The source places the surrender of the perfect kingdom to the Father after this age. The app retains that distinction rather than combining it with Omega."
+        }
+      ],
+      "sourceLocation": "Chart: period 8 inside Perfect Age; chapter V, IV.2, “The Perfect Age”.",
+      "kind": "dispensation"
+    },
+    {
+      "id": "omega",
+      "number": null,
+      "title": "Ages of the Ages",
+      "shortTitle": "Omega / eternity",
+      "start": "God all and in all",
+      "end": "Eternity",
+      "summary": "Beyond the Perfect Age, Larkin labels Omega and “Ages of the Ages”. His prose says that the surrender of the perfect kingdom to the Father marks the end of what he calls Time and the beginning of these eternal ages.",
+      "sourceExcerpt": "As the \"Creative Ages\" were the \"Alpha\" Ages, these will be the \"Omega\" Ages.",
+      "references": [
+        "1 Corinthians 15:24-28",
+        "Ephesians 2:7",
+        "Revelation 20:10"
+      ],
+      "details": [
+        {
+          "label": "Exact boundary label",
+          "text": "“God All And In All” — 1 Corinthians 15:24–28, as printed on the chart."
+        },
+        {
+          "label": "Not a ninth dispensation",
+          "text": "The Omega ages are not given a ninth number in the drawing."
+        },
+        {
+          "label": "Time scale",
+          "text": "No numerical length or proposed future calendar date is supplied."
+        }
+      ],
+      "sourceLocation": "Chart: far-right Omega boundary; chapter V, V, “The Ages of the Ages”.",
+      "kind": "eternity"
+    }
+  ],
+  "events": [
+    {
+      "id": "fall-expulsion",
+      "title": "The Fall and the Expulsion",
+      "afterPeriod": "edenic",
+      "summary": "The chart closes Innocence with the Fall and the Expulsion from Eden.",
+      "references": ["Genesis 3:21"],
+      "sourceLocation": "Chart: Edenic circle and its right boundary; chapter V, II.1."
+    },
+    {
+      "id": "enoch",
+      "title": "Enoch",
+      "afterPeriod": "antediluvian",
+      "summary": "Enoch is shown ascending from the line of Seth within the Antediluvian Dispensation.",
+      "references": ["Genesis 5:22-24"],
+      "sourceLocation": "Chart: period 2; chapter V, II.2.",
+      "duringPeriod": "antediluvian"
+    },
+    {
+      "id": "flood",
+      "title": "The Flood",
+      "afterPeriod": "antediluvian",
+      "summary": "The Flood separates the Antediluvian and Postdiluvian dispensations.",
+      "references": ["Genesis 7:11"],
+      "sourceLocation": "Chart: ark between periods 2 and 3; chapter V, ages discussion."
+    },
+    {
+      "id": "babel",
+      "title": "Babel",
+      "afterPeriod": "postdiluvian",
+      "summary": "Babel lies within the Human Government period. The chapter places dispersion about 325 years after the Flood and leaves a further 102 years in the dispensation.",
+      "references": ["Genesis 11:1-3", "Genesis 10:25"],
+      "sourceLocation": "Chart: period 3; chapter V, III.1.",
+      "duringPeriod": "postdiluvian"
+    },
+    {
+      "id": "call-abraham",
+      "title": "Call of Abraham",
+      "afterPeriod": "postdiluvian",
+      "summary": "The chapter starts the Patriarchal or Family dispensation at the call of Abraham.",
+      "references": ["Genesis 12:1-3"],
+      "sourceLocation": "Chart: Abraham at period 4; chapter V, introduction and III.2."
+    },
+    {
+      "id": "exodus",
+      "title": "The Exodus",
+      "afterPeriod": "patriarchal",
+      "summary": "The Exodus separates the Patriarchal and Legal dispensations in the source explanation. The diagram carries the nations along a lower line; it gives no direct verse citation at the Exodus label.",
+      "references": [],
+      "sourceLocation": "Chart: boundary of periods 4 and 5; chapter V, III.3."
+    },
+    {
+      "id": "elijah",
+      "title": "Elijah",
+      "afterPeriod": "legal",
+      "summary": "The drawing shows Elijah ascending within the Legal Dispensation. No date or verse citation is attached to this small figure on the main plate.",
+      "references": [],
+      "sourceLocation": "Chart: upward Elijah branch inside period 5.",
+      "duringPeriod": "legal"
+    },
+    {
+      "id": "first-advent",
+      "title": "First Advent · Judgment No. 1",
+      "afterPeriod": "legal",
+      "summary": "The Cross is labelled “Judgment No. 1 — Believers for Sin”. This is separate from the later judgment of believers for works. The main chart gives no direct verse citation at this label.",
+      "references": [],
+      "sourceLocation": "Chart: Cross and First Advent."
+    },
+    {
+      "id": "resurrection-firstfruits",
+      "title": "Resurrection of Christ · First Fruits",
+      "afterPeriod": "legal",
+      "summary": "Near the First Advent, the diagram labels the Resurrection of Christ and a First Fruits resurrection branch. The accompanying chapter connects the firstfruits typology with Christ’s resurrection using 1 Corinthians 15:20. This label is distinct from the later Harvest and Gleanings.",
+      "references": ["1 Corinthians 15:20", "Leviticus 23:10-11"],
+      "sourceLocation": "Chart: resurrection branches at the First Advent; chapter V, discussion of the first day of the week after the Sabbath."
+    },
+    {
+      "id": "ascension-priesthood",
+      "title": "Ascension and priesthood of Christ",
+      "afterPeriod": "legal",
+      "summary": "The upward branch leads to the Priesthood of Christ; the downward branch is the Descent of the Holy Spirit. Paradise above is distinguished from the earlier Paradise in the lower diagram.",
+      "references": [
+        "Mark 16:19",
+        "Romans 8:34",
+        "Hebrews 4:14-16",
+        "Ephesians 4:8-10",
+        "2 Corinthians 12:1-4"
+      ],
+      "sourceLocation": "Chart: upper branches over First Advent and period 6."
+    },
+    {
+      "id": "rapture",
+      "title": "The Rapture",
+      "afterPeriod": "ecclesiastical",
+      "summary": "Christ meets His Church; the chart distinguishes translated saints and the first resurrection of saints. This branch is labelled “Harvest”, distinct from the earlier “First Fruits” and later “Gleanings”. The Rapture is the first stage of the Second Advent, followed by the interval before the Revelation.",
+      "references": ["1 Thessalonians 4:14-18"],
+      "sourceLocation": "Chart: upward Rapture branch at the end of period 6."
+    },
+    {
+      "id": "judgment-seat",
+      "title": "Judgment No. 2 · Believers for works",
+      "afterPeriod": "judgment-interval",
+      "summary": "The heavenly branch names the Judgment Seat of Christ and judgment of believers for works.",
+      "references": [
+        "2 Corinthians 5:10",
+        "Romans 14:10",
+        "1 Corinthians 3:14-15"
+      ],
+      "sourceLocation": "Chart: top of the interval between periods 6 and 7.",
+      "duringPeriod": "judgment-interval"
+    },
+    {
+      "id": "marriage-feast",
+      "title": "The Marriage Feast",
+      "afterPeriod": "judgment-interval",
+      "summary": "The Marriage Feast is on the heavenly branch before Christ’s Revelation with His saints.",
+      "references": ["Revelation 19:7-9"],
+      "sourceLocation": "Chart: upper heavenly branch beside Judgment No. 2.",
+      "duringPeriod": "judgment-interval"
+    },
+    {
+      "id": "war-heaven",
+      "title": "War in Heaven · Dragon Cast Out",
+      "afterPeriod": "judgment-interval",
+      "summary": "The original distinguishes this casting out from Satan’s earlier deposing and later binding.",
+      "references": ["Revelation 12:7-12"],
+      "sourceLocation": "Chart: upper interval beneath the Judgment Seat.",
+      "duringPeriod": "judgment-interval"
+    },
+    {
+      "id": "judgment-jews",
+      "title": "Judgment No. 3 · The Jews",
+      "afterPeriod": "judgment-interval",
+      "summary": "Antichrist stands above the judgment of the Jews during the interval. The chapter describes it as the Time of Jacob’s Trouble.",
+      "references": ["Jeremiah 30:4-6", "Daniel 12:1"],
+      "sourceLocation": "Chart: interval under Antichrist; chapter V, Dispensation of Judgment.",
+      "duringPeriod": "judgment-interval"
+    },
+    {
+      "id": "revelation-nations",
+      "title": "The Revelation · Judgment No. 4",
+      "afterPeriod": "judgment-interval",
+      "summary": "Christ returns with His saints. The judgment of the nations introduces the Messianic period.",
+      "references": ["Matthew 25:31-33", "Zechariah 14:4"],
+      "sourceLocation": "Chart: descending Revelation line and Judgment No. 4; chapter V, Dispensation of Judgment."
+    },
+    {
+      "id": "tribulation-gleanings",
+      "title": "Tribulation Saints · Gleanings",
+      "afterPeriod": "judgment-interval",
+      "summary": "At the Revelation boundary, the chart labels a First Resurrection branch for the Tribulation Saints, with “Gleanings” at its foot. This is separate from the Harvest at the Rapture. No new verse citation is assigned to this branch in the modern data.",
+      "references": [],
+      "sourceLocation": "Chart: upward Tribulation Saints branch immediately beside the downward Revelation line."
+    },
+    {
+      "id": "satan-bound",
+      "title": "Satan Bound",
+      "afterPeriod": "judgment-interval",
+      "summary": "The chart’s Satan Bound line leads into the Bottomless Pit and the millennium. The beast and false prophet have a separate line to the Lake of Fire.",
+      "references": ["Revelation 20:1-3", "Revelation 19:20"],
+      "sourceLocation": "Chart: lower branch at the Revelation and beginning of period 7."
+    },
+    {
+      "id": "satan-loosed",
+      "title": "Satan Loosed",
+      "afterPeriod": "messianic",
+      "summary": "The source depicts Satan’s release and final rebellion at the close of the millennium.",
+      "references": ["Revelation 20:7-9", "Revelation 20:10"],
+      "sourceLocation": "Chart: end of period 7 and lower Lake of Fire branch."
+    },
+    {
+      "id": "great-white-throne",
+      "title": "Great White Throne · Judgment No. 5",
+      "afterPeriod": "messianic",
+      "summary": "The Great White Throne judges the wicked; the chart also shows “Tares”, the Second Resurrection, opened books, and the Lake of Fire. Renovation of the earth by fire is drawn at this transition to the Perfect Age.",
+      "references": ["Revelation 20:11-15", "2 Peter 3:7-13"],
+      "sourceLocation": "Chart: upper and lower branches at the fire between periods 7 and 8."
+    },
+    {
+      "id": "god-all",
+      "title": "God All And In All",
+      "afterPeriod": "fulness",
+      "summary": "Larkin places the surrender of the perfect kingdom to the Father at the boundary between the Perfect Age and the Omega ages.",
+      "references": ["1 Corinthians 15:24-28"],
+      "sourceLocation": "Chart: far-right vertical boundary; chapter V, IV.2 and V."
+    }
+  ],
+  "ages": [
+    {
+      "title": "Alpha — Creative Ages",
+      "startPeriod": "original-earth",
+      "endPeriod": "restored-earth"
+    },
+    {
+      "title": "1 · Antediluvian Age",
+      "startPeriod": "edenic",
+      "endPeriod": "antediluvian"
+    },
+    {
+      "title": "2 · The Present Age",
+      "startPeriod": "postdiluvian",
+      "endPeriod": "judgment-interval"
+    },
+    {
+      "title": "3 · Age of Ages",
+      "startPeriod": "messianic",
+      "endPeriod": "fulness"
+    },
+    {
+      "title": "1 · Millennial Age",
+      "startPeriod": "messianic",
+      "endPeriod": "messianic",
+      "level": 2
+    },
+    {
+      "title": "2 · Perfect Age",
+      "startPeriod": "fulness",
+      "endPeriod": "fulness",
+      "level": 2
+    },
+    {
+      "title": "Omega — Ages of the Ages",
+      "startPeriod": "omega",
+      "endPeriod": "omega"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Eight drawing numbers; seven probationary tests",
+      "text": "The chapter initially describes three ages and seven dispensations “in Time”, but the drawing visibly numbers the Fulness of Times as 8. Later prose calls the Perfect Kingdom a dispensation. The modern chart retains the actual eight diagram numbers and keeps the unnumbered judgment interval distinct.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "The source has two Antediluvian Age descriptions",
+      "text": "The introductory list defines the Antediluvian Age from the Fall to the Flood. The detailed section II says restoration of the earth to the Flood, and the drawing’s age arc includes the Edenic circle. The overview follows the drawing, while this note preserves the textual difference.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "The source also varies its Present Age endpoint",
+      "text": "The drawing and section III extend the Present Age to the Revelation. The opening of section IV instead says the Present Age is to end by the Rapture, followed by the Great Tribulation, before the Age of Ages is ushered in at the Revelation. The modern age span follows the drawing and preserves this difference in the source notes.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "The Legal Dispensation endpoint is not uniform",
+      "text": "Section III.3 first says Exodus to Birth of Christ, “1491(? ) years”, then closes its account at the crucifixion. The diagram says “Moses to Christ” and puts First Advent at the Cross. No unmarked correction or single definitive end date has been imposed.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "Larkin’s printed chronology",
+      "text": "1656 years, 427 years, 430 years, 1000 years, B.C. 606, B.C. 445, and A.D. 30 are retained as historical labels from Larkin’s drawing. Equal visual widths are for navigation and do not represent proportional duration. The app does not calculate a date for the Rapture or Second Advent.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "title": "Generation, Degeneration, Regeneration",
+      "text": "The large outer bands read Generation over the creation group, Degeneration over the fallen course of history, and Regeneration over the future ages. The upper brackets distinguish “The World That Then Was”, “The Heavens and Earth Which Are Now”, and the expected new heavens and new earth.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "title": "The five judgments remain distinct",
+      "text": "No. 1 is believers for sin, at the Cross. No. 2 is believers for works, at the Judgment Seat of Christ. No. 3 is the Jews under Antichrist. No. 4 is the nations at the Revelation. No. 5 is the wicked at the Great White Throne. These labels describe Larkin’s drawing and are not merged into one judgment.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "title": "The upper and lower branches are part of the original",
+      "text": "The original-image view preserves the complete drawing, including Christ’s priesthood, the two Paradise labels, the Grave, Hell, the Great Gulf, Tartarus, the Abyss / Bottomless Pit, and the Lake of Fire. The modern chronological panels summarize the eras; they do not replace the original’s spatial underworld diagram.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "title": "Satan’s path in the drawing",
+      "text": "Larkin shows Satan as the anointed cherub, then deposed and associated with the powers of the air and the “trail of the serpent”; a later war in heaven casts the dragon out. Binding, release, and the final Lake of Fire destination are distinct later events. The chapter qualifies aspects of the pre-Adamite reconstruction rather than supplying a dated historical proof.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "KJV reader and original quotations",
+      "text": "The Scripture reader uses the KJV. The source chapter and a chart reference also explicitly mark some material R.V.; original author excerpts are preserved rather than silently rewritten and labelled KJV. References in study panels come from the chart or its explanatory chapter; their locations are stated.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "Scope of the source transcription",
+      "text": "Original text is the chapter V transcription from PreservedWords, with HTML and layout whitespace removed. OCR and typographical quirks are retained. The unaltered original chart is the reference for its graphical labels. No claim is made that an OCR transcription is a diplomatic transcription of every printed character.",
+      "sourceUrl": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "First Fruits, Harvest, Gleanings, and Tares",
+      "text": "The source drawing’s resurrection vocabulary is retained: First Fruits near the First Advent, Harvest at the Rapture, Gleanings for Tribulation Saints at the Revelation, and Tares beside the Second Resurrection and Great White Throne. The First Resurrection is not treated as one undifferentiated moment in this source.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    }
+  ],
+  "sourceUrls": [
+    {
+      "title": "Original chart image · unaltered scan",
+      "url": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "title": "Larkin’s own explanation · Dispensational Truth, chapter V",
+      "url": "https://preservedwords.com/disptruth/chap5.html"
+    },
+    {
+      "title": "Original chart catalogue · Clarence Larkin Estate, item 22",
+      "url": "https://www.larkinestate.com/charts.html"
+    },
+    {
+      "title": "1920 chart identification · Yale MAVCOR",
+      "url": "https://mavcor.yale.edu/material-objects/rightly-dividing-word-truth"
+    },
+    {
+      "title": "Book contents · chart item 8",
+      "url": "https://preservedwords.com/disptruth/contents.html"
+    }
+  ],
+  "sourceText": "Dispensational Truth\n\nV\n\nRightly Dividing the Word\n\nWriting to Timothy, Paul said-\n\n\"Study to show thyself approved of God, a workman that needeth not to be ashamed, Rightly Dividing the Word of Truth\" 2Tim. 2:15.\n\nThe student of the \"Word of God\" is here spoken of as a \"Workman\" A workman cannot intelligently do his work without a plan. He must have drawings and specifications. God said to Moses as to the Tabernacle,\n\n\"See that thou make all things according to the 'Pattern' showed to thee in the mount.\" Heb. 8:5.\n\nThe student of God's Word must understand\n\n\"God's Plan and Purpose in the Ages, \"\n\nor there will be confusion in his work of interpreting the Scriptures.\n\nTo this end charts are indispensable. But care must be taken not to depend on them alone. While the drawings and specifications of a building are separate they must correspond. So a Biblical chart must correspond with the \"Word of, God,\" or it may lead to error. The two must be compared.\n\nSt. Augustine said-\"Distinguish the 'Periods' and the Scripture will harmonize. \" After an address by Rev. Dr. A. J. Gordon on \"The Plan of the Ages,\" a gentleman said to him, \"Why, Doctor, you have a 'Pigeon Hole' for every text.\"\n\nWe must learn to\n\n\"Rightly Divide the Word of Truth.\"\n\nWhile the \"Word of Truth\" is written FOR all classes of people, and FOR our learning, it is not addressed to all peoples in general. but part of it is addressed to the JEWS, part to the GENTILES, and part to the CHURCH. These three constitute the THREE CLASSES into which humanity is divided. 1Cor. 10:32. it follows therefore that while the whole Bible was written for the INSTRUCTION of the Church, it is not all written ABOUT the Church. The Church is not mentioned in the Old Testament. It was hid from the Old Testament prophets, and was a \"Mystery\" first revealed to Paul, and disclosed by him in Eph. 3:1-3. The Old Testament is mostly taken up with one nation, that of Israel. In the first five chapters of Genesis we given the history of Creation, and 1700 years of human history. In the next four chapters we are given the account of the Flood. The tenth and eleventh chapters give the account of 400 more years of human history, and then God singles out one man, Abraham (Gen. 12:1-3), and from there on the whole of the Old Testament centers around the Jewish Race. When we take the Old Testament promises and apply them to the Church we rob the Jew of that which is exclusively his. For illustration, the prophecy of Isaiah is largely applied to the Church, whereas the very first verse declares that it is-\"Concerning JUDAH and JERUSALEM.\" Isa. 1:1. In the New Testament the Epistles of Hebrews and James are Jewish. The Epistle of James is addressed, not to the Church, but to the \"TWELVE TRIBES scattered abroad.\" James 1:1. Therefore the \"Prayer of Faith\" (James 5:13-15) for the sick is not primarily a promise to the Church but to Israel, though doubtless it will be answered for all who comply with the conditions. In the Epistle to the Hebrews many Christians stumble at the words \"fall away\" (Heb. 6:4-6), and \"if we sin willfully\" Heb. 10:26. But these words do not apply to Christians They were spoken to apostate Jewish professors of Christianity who had never been born again, and who, if they did not accept Jesus as their Messiah, practically crucified Him again, and were as bad as their brethren who did crucify Him.\n\nSome books are general. As for instance the Epistle to the Romans. No one would apply Romans 8th to the Jews, or Romans llth to the Church, for in it Paul speaks not only to Israel but also to the Gentiles. Rom. 11:11-13. ALL Scripture is profitable for doctrine, for reproof, for correction, for instruction, (2Tim. 3:16), and what happened to Israel was written for our ENSAMPLE and ADMONITION, (1Cor. 10:11), but we must not apply to the Church what does not belong to it. We see then that to misapply scripture is to not \"Rightly Divide the Word\" and tends to confusion and error.\n\nIn \"Rightly Dividing the Word of Truth,\" we must also distinguish the work of Christ. We are told in the Scriptures that He is a \"Prophet,\" \"Priest\" and \"King.\" But He does not hold those offices conjointly but successively. From the Fall in Eden to the Cross, He was a \"Prophet.\" He is now a \"High Priest\" and when He comes again He will be a \"King.\" From Eden to the Cross there was an \"Altar,\" from the Cross to the Crown there is a \"Table\" (the Lord's Table), and from the Crown to Christ's surrender of the Kingdom there is a \"Throne.\" See the chart on \"The Greater Life and Work of Christ.\"\n\nIn Heb. 1:1, we read-God hath spoken \"at SUNDRY TIMES, \" as well as \"in DIVERS MANNERS, \" and if we are to understand what He has spoken, we must not only distinguish between the class of people He has spoken to, as the Jews, Gentiles or the Church, but we must also note the \"SUNDRY TIMES\" at which He spoke, and the \"DIVERS MANNERS.\" We must also distinguish between the \"TIME PAST\" when He spoke by the Prophets, and these \"LAST DAYS\" in which He hath spoken to us by His SON. Heb. 1:1-2. We must not forget the \"DIVINE CONJUNCTIONS\" and \"DIVINE DISJUNCTIONS\" of the Word of God. We must not separate what God has joined, as the \"Word of God\" and the \"Spirit of God,\" \"Christ and Salvation...... Faith and Works.\" Neither must we join what God has separated, as \"Heaven and Hell,\" \"Baptism and Regeneration, \" \"Natural Heredity\" and \"Spiritual Heredity,\" \"Standing and State,\" \"the Church and the Kingdom.\"\n\nWe must also distinguish between the \"TIMES\" and \"SEASONS\" of the Scriptures. Daniel said of God-\"He changeth the 'TIMES' and the 'SEASONS', \" (Dan. 2:21), and Jesus said to His Disciples-\"It is not for you to know the 'TIMES' or the 'SEASONS'.\" Acts 1:7. job testified that the \"TIMES are not hidden from the Almighty.\" Job 24:1. And of the Children of Issachar it was said that they had \"understanding of the TIMES.\" 1Chron. 12:32. By the \"SEASONS\" we are to understand the climatic changes of the earth due to the movements and changing characteristics of the 'Sun, Moon and Stars, which God ordained to regulate the \"Seasons.\" Gen. 1:14. As to the \"TIMES\" we have them designated as the \"TIMES OF IGNORANCE, \" (Acts 17:30); the \"TIMES OF THE GENTILES, \" (Luke 21:24); the \"TIMES OF REFRESHING, \" (Acts 3:19); the \"TIMES OF RESTITUTION, \" (Acts 3:21); and the \"Dispensation of the FULNESS OF TIMES.\" Eph. 1:10. See Chart of \"The Times and Seasons.\"\n\nFrom the statement, \"The Times of the GENTILES, \" we see that when the \"Gentiles\" are in power the \"Jews\" are not. And as the \"Times of the GENTILES\" is still running, the Church cannot be in this Dispensation a governing or Kingdom power.\n\nThe Relation of Jew, Gentile and Church\n\nThe Times and Seasons\n\nBut it is not enough to classify the Scriptures in the manner already mentioned, we must learn to separate the Scriptures as to \"TIME\" and \"ETERNITY\" and the different \"AGES' and \"DISPENSATIONS\" of \"Time.\" A reference to the Chart-\"RIGHTLY DIVIDING THE WORD\" will reveal the fact that outside of \"TIME\" the Scriptures mention \"TWO AGES:\" before \"Time, \" the \"ALPHA\" or \"CREATIVE AGES, \" and after \"Time, \" the \"OMEGA\" or \"AGES OF THE AGES.\" In \"Time\" there are three \"AGES\" and seven \"DISPENSATIONS.\" The three \"AGES\" are-\n\n1 THE ANTEDILUVIAN AGE.\n\nThis extends from the \"Fall\" to the \"Flood.\"\n\n2. THE PRESENT AGE.\n\nThis extends from the \"Flood\" to the \"Second Coming of Christ.\"\n\n3. THE AGE OF AGES.\n\nThis extends from the \"Second Coming of Christ\" to the \"End of Time.\" This last \"Age\" is a \"Dual Age\" composed\n\n1. The Millennial Age.\n\n2. The Perfect Age.\n\nThe \"Millennial Age\" is also a \"Dispensation\" in its relation to the six preceding Dispensations.\n\nAn \"Age\" in Scripture is from one \"cataclysmic\" or \"climatic\"change to another in the earth's surface or condition. This corresponds to what is called in Geology an \"Age.\" So we see that Science\n\nand the Bible agree as to the meaning of the word \"Age.\"\n\nWe know that at the time of the Flood there were great \"cataclysmic\" and \"climatic' changes, for the \"fountains of the great deep were broken up.\" Gen. 7:11. That is, there was a subsidence that resulted in great physical changes that affected the climate of the earth, and divested the atmosphere of some of its life-sustaining properties, so that the length of life was reduced from 900 to 100 later to threescore and ten.\n\nAt the beginning of the Millennium all this will be reversed, for when Christ comes back-\n\n\"His feet shall stand in that day (Millennial Day) upon the Mount of Olives, which is before Jerusalem on the east; and the Mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north and half of it toward the south.\"\n\n\"All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem and it shall be lifted up.\" Zech. 14:4, Zech. 14:10. In verse eight we read-\n\nLiving waters shall go out from Jerusalem; half of them toward the 'former sea' (Red Sea) and half of them toward the 'hinder sea' (Mediterranean).\"\n\nThat means that the Dead Sea, that is now 1200 feet below the Mediterranean, is to be elevated, and its water flow south to the Red sea, and that it shall lose its saltness and be filled with fish, for we read in Eze. 47:1-3, that fishermen shall spread their nets upon its shores.\n\nThis great \"cataclysmic\" change is going to make a great change in the climate and restore the life-sustaining power of the atmosphere like unto that before the Flood, for we read in Isa. 65:20, that in the Millennial days that are to follow-\n\n\"There shall be no more thence an infant of days, nor an old man that hath not filled his days; for the child shall die an hundred years old.\"\n\nThat is, a person a hundred years old shall only be considered a child, which means that men shall live again in the Millennium to the age of Methusaleh.\n\nThe Chart is divided into 3 \"Ages,\" corresponding to the Divine number \"Three\" (Father, Son and Holy Spirit) ; and into 7 \"Dispensations,\" to correspond to the Perfect number \"Seven\" composed of the Divine number \"Three\" and the World number \"Four\" -Winter Spring, Summer and Autumn, or the four elements, Earth, Air, Fire and Water.\n\nThe difference between an \"AGE\" and a \"DISPENSATION is that an \"AGE\" stands for a period between two great physical changes in the earth's surface, while a \"DISPENSATION\" stands for a \"moral\" or \"probationary\" period in the world's history. The form of \"Administration\" is different in each \"Dispensation.\" For illustration, the Administration of the Jewish Dispensation was that of \"LAW, \" the Administration of the present Dispensation is of \"GRACE, \" and of the one to follow is \"RIGHTEOUSNESS.\"\n\nAll the confusion about the \"Ages,\" \"Dispensations,\" and \"End of the World\" is largely due to the mistranslation of two Greek words in the New Testament.\n\nThe first word is \"Kosmos.\" It means the external arrangement and beauty of the natural world, and includes the thought of nations, peoples, and worldly possessions, as in Matt. 4:8.\n\n\"Again the Devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world and the glory of them.\"\n\nAlso Matt. 13:38, \"The Field is the World.\" And Luke 11:50, \"That the blood of all the prophets, which was shed from the 'foundation of the World,' may be required of this generation.\" This word \"Kosmos\" occurs 170 times and is always translated \"World.\"\n\nThe second word is \"Aion\" and means \"Age,\" \"Dispensation,\" \"Indefinite Time.\" It occurs 28 times, and is also translated \"World.\"\n\nTo show how misleading this translation is we need only to cite a passage or two. Take Matt. 13:39, Matt. 13:40, Matt. 13:49.\n\n\"The enemy that sowed them is the Devil; and the harvest is the end of the world.\"\n\nIt should read-the \"end of the Age.\" \"Be not conformed to this world (Age).\" Rom. 12:2. \"In whom the god of this world (Age) hath blinded the minds of them which believe not.\" 2Cor. 4:4. \"Who gave himself for our sins, that he might deliver us from this present evil world (Age).\" Gal. 1:4. \"Charge them that are rich in this world (Age).\" 1Tim. 6:17. \"Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds (Ages).\" Heb. 1:2. \"Through faith we understand that the worlds (Ages) were framed by the Word of God (Jesus).\" Heb. 11:3. From this we see that Jesus not only made the \"earth-worlds,\" John 1:1-3, but He also made the \"time-worlds,\" that is, He planned the \"Ages\" and \"Dispensations.\"\n\nLet us now take up the \"Ages\" and \"Dispensations\" and study them separately.\n\nI. THE CREATIVE AGES\n\nThe Scriptures begin with the sublime declaration-\n\n\"In the beginning God 'CREATED' the heaven and the earth.\" Gen. 1:1.\n\nAs the word \"heaven\" is in the singular it will clarify matters to limit this creative act to our own planet, and the solar system to which it belongs, rather than to the whole of the starry spaces or universe.\n\n1. THE ORIGINAL OR PRE-ADAMITE EARTH\n\nThis creation was in the dateless past. It was not at the beginning of the first day as described in Gen. 1:3-5. The six days' work as described in Gen. 1:3-5 was the restoration of the earth (not the heavens or starry space), to its original condition before it was made 'formless and void,\" and submerged in water and darkness.\n\nPeter speaks of it as the \"World that then was, that being overflowed with water, perished.\" 2Pet. 3:5-7.\n\nThe manner of the \"creation\" of the Pre-Adamite Earth is not revealed in the Scriptures. They simply declare that-\"In the BEGINNING GOD CREATED the heaven and the earth.\" We have to fall back then upon Science. Among the theories advanced for the origin of the Solar System of which our Earth is a part is-\n\nTHE NEBULAR HYPOTHESIS\n\nIn the year 1796 the astronomer La Place advanced the theory that the sun, planets and moons of our Solar System were once one vast spherical mass of nebulous or gaseous matter, out of which they have developed. He claimed that this mass of nebulous matter coming in contact with the cold of space began to contract, and in . contracting a rotary motion was set up around its center, and the more rapidly it cooled the faster it revolved, until it became flattened at the poles and protruded at the equator, until it more resembled two watch crystals placed edge to edge than it did a round ball. As the cooling progressed, and the rapidity of revolution increased, a ring of matter was detached from the edge of the watch-crystal shaped mass, which still continued to revolve around the parent mass, which parent mass as it cooled shrunk away from the ring, and that this process continued until a number of rings were thrown off, all revolving in the same direction within each other and around the central mass. These rings of matter as they separately condensed were broken into fragments, and some of the fragments were retarded and others accelerated until they coalesced and formed a globe which continued to revolve in the same direction, the outermost ring forming the planet Neptune and the innermost Mercury. The central mass of this nebulous matter, after the rings had been separated from the parent mass, is now our sun.\n\nThe moons of the planets were formed in the same manner, they having been detached rings of matter circling around their respective planets. As an evidence of this we have the rings of Saturn, that doubtless in time will break up and form moons for that planet.\n\nBetween Mars and Jupiter there seems to be a break in the series, which can only be accounted for by supposing that the Asteroids, which appear to be the fragments of a planet, and that all revolve around the sun in the same direction as the other planets, are the fragments of a nebulous ring that would have formed a planet if it had not been for the nearness of the immense planet Jupiter.\n\nThe Creation Of The Earth\n\nIf the sun and planets of our Solar System sprang from the same parent mass, they should be composed of the same chemical elements, first, would be in the most advanced stage, but we must not forget that the larger the mass the slower it cools, and therefore, if the Nebular Hypothesis is correct, Jupiter and Saturn must still be very hot, and not as far advanced and fit for habitation as the earth, and this we know to be the fact.\n\nObjection has been raised to the \"Nebular Hypothesis\" Theory on the basis that a \"gaseous\" nebula could not exist in the cold of space, and that the nebulous matter of the nebula is not gas, but meteoric luminous matter, made luminous by the collision of meteoric particles, and out of the union of these particles the. planets were formed. Another theory is that the planets have been formed by the union of smaller planetary bodies that were welded together by the immense heat generated by their impact upon each other. But each theory has its difficulties.\n\nA survey of the heavens reveals numerous \"spiral nebula\" that seem to be \"Solar Systems\" in the process of formation, but the invention of powerful telescopes has revealed that many of these nebula are not gaseous but clusters of stars. Nevertheless it has been shown that many of the nebula are gaseous, but it was not until May, 1914, that Dr. Slipher, of the Flagstaff Observatory, Arizona, by spectograms proved that the nebula in the Constellation of Virgo was revolving, this proving that the Nebular Hypothesis of La Place is not without foundation.\n\nThe proofs of the Nebular Hypothesis are-(l) The orbits of the planets are nearly circular. (2) They revolve almost in the same plane as the sun's equator. (3) They all revolve around the sun in the same direction, which is also the direction of the sun's rotation. (4) They rotate on their own axis also, as far as known, in the same direction. (5) Their satellites or moons, with the exception of those of Uranus and Neptune, revolve in the same -direction as their planet. (6) The earth is still cooling, as is proved by its outer crust and internal fire that. finds vents in volcanoes, for when we examine a hot ball and find it warmer inside than out we know it is cooling off.\n\nThe time was then when our earth was a globular mass of molten matter surrounded by an atmosphere of gaseous and metallic vapors. As the globular mass cooled off by radiation a thin crust of rocky formation was formed on its outer surface. This increased slowly in thickness, and as the interior mass shrunk in cooling the outer crust fell in or wrinkled, and was here and there by earthquake and volcanic action tilted out of the horizontal, and thus was formed the diverse stratification of the rocky foundation of the earth's surface. The cooling of the earth's surface and the formation of its rocky crust permitted its gaseous and metallic vaporous atmosphere to cool, and the metallic vapors condensed and were precipitated in the form of metallic rain upon the earth's crust, and, according to their specific gravity, they collected and distributed themselves in pockets and recesses of the earth's crust to be later by upheavals and changes in the earth's crust thrown to the surface for the use of man.\n\nIn the course of time-and the formation of our Solar System took thousands upon thousands of years-the earth cooled off sufficiently to permit the oxygen and hydrogen in the atmosphere to form water, that fell in the form of rain on the earth, but like when water falls upon a red-hot plate it is immediately turned into steam, the first rain that fell was vaporized by the heat of the earth's crust, but, continuing to fall, it finally so cooled the earth's surface as to be able to remain and form seas and oceans. As time passed on the rocky surface of the earth was disintegrated and formed soil, and when the soil was fit, vegetation and trees and plant life appeared. Then came the lower orders of marine life, followed by fish and fowl. Then the land animals, and whatever other orders of beings that inhabited the original earth.\n\nThat we may have a faint idea of the time it took for the earth to become habitable, we have only to turn to the Carboniferous Period of its history. Coal is formed from vegetable matter. In the Carboniferous Period the atmosphere was full of Carbonic Acid Gas, in which animal life could not exist. The atmosphere was Moist and steamy like that of a hothouse, and vegetation was very rank, and ferns and plant life grew to immense proportions. By atmospheric and earthquake action the immense forests of the Carboniferous Period were thrown down and buried under layers of soil and rock. until their vegetable matter was compressed into coal. This was repeated until coal bed after coal bed was formed in overlying seams. The time it took to form these beds of coal is seen when we learn that it would take 1200 years for the most luxuriant vegetation of the present day to form a coal seam 6 inches thick, or 7200 years to form a seam 3 feet thick, the thinnest that can be worked to advantage. In the coal measures of Nova Scotia are 76 seams of coal, of which one is 22 feet thick, and another 37. Thus we see that it took thousands of years to form the coal beds of the earth alone. How many millenniums of years must it not have required then for the earth to pass from a molten state to a habitable condition?\n\nBut the \"Word of God\" and the \"Works of God\" must harmonize. There can be no conflict between the Bible and Science. Science demands thousands of years for the formation of the earth and all the time it demands is given to it in the sublime words of Gen. 1:1, \"In the BEGINNING God created the heaven and the earth.\" This verse then covers the whole period of the formation of. the earth and its preparation for the habitation of man.\n\nThe Egyptians, as Plato informs us, taught that the earth and the heavens originated out of a kind of pulp, and that men were generated from the slime of the river Nile. Other sages of Egypt held that the world was hatched from a winged egg. Now as Moses was \"learned in all the wisdom of the Egyptians\" (Acts 7:22) how is it that he did not say that the heavens originated out of a kind of pulp, and that the world was hatched from a winged egg? Simply because God revealed to him, probably when he was up on the mount with God, just how the world was created.\n\n2. THE CHAOTIC EARTH\n\nThe creation of the \"Original Earth\" was in the dateless past. It was doubtless a most beautiful earth, covered with vegetation and inhabited with fish and fowl and animal life, and probably with human life. How long it continued in this condition we are not told, but an awful catastrophe befell it-it became \"FORMLESS AND VOID, and submerged in water and darkness. Gen. 1:2. That it was not originally so we know from Isa. 45:18 (R.V.). \"Thus saith the Lord that created the heavens; he is God; that formed the earth and made it; He established it, He created it NOT A WASTE, he formed it to be inhabited.\"\n\nWhat caused the earth to become a \"Waste\" after its original creation is not clearly revealed. It is clear from the account of the Fall of Adam and Eve that sin existed before man was created.\n\nGeneration\n\nThe Six Days Of Re-Creation\n\nIn that remarkable passage in Ez. 28:12-14 there is revealed to us under the title of\n\n\"The King of Tyrus, \"\n\na being of surpassing beauty and wisdom, who had been in \"Eden,\" the \"Garden of God.\" Not the Eden of Adam's day, but possibly the Eden of the Earth as it was first created. This being is spoken of as the \"Anointed Cherub that Covereth,\" who \"walked upon the 'Holy Mountain of God',\" and was \"perfect in all his ways from the day that he was created until iniquity was found in him\"\n\nAs no King of Tyrus answering this description has, as yet, existed, this passage is taken to be a prophetic portrait of the \"Antichrist,\" and as Antichrist is to be an incarnation of Satan, it probably is a description of Satan before his fall. The intimation in this scripture then is, that Satan, with a host of angelic beings, was placed in charge of the original or primeval earth, and that he through pride (1Tim. 3:6; Isa. 14:12-14) sought to be equal with God, and that to punish him the earth was thrown into a chaotic state, and Satan and his angels, amounting to a third of the angelic hosts (Rev. 12:4) were excluded from Heaven, and took up their abode in the heavenlies, the Second Heaven, located between the atmosphere of our earth and the Heaven where God dwells, and thus became the \"Principalities and Powers,\" and \"Rulers of the Darkness of this Age,\" and the \"Spiritual Wickedness\" in \"High Places\" (the Second Heaven), of whom we are warned in Eph. 6:12. This seems very plausible, for Satan is said to be the \"Prince of the Powers of the Air\" (Eph. 2:2); and the \"God of this World\" (Age), and it looks as if his plan for the Fall of man was a scheme to regain control of this earth.\n\nIf there were human beings on the Original or Pre-Adamite Earth, they were doubtless involved in Satan's fall and destroyed. In fact, the \"demons\" are believed by many to be the disembodied spirits of the inhabitants of the Pre-Adamite Earth, and their efforts to reembody themselves in human beings, as in the days of Christ, is looked upon as evidence that they once possessed bodies similar to human bodies. Naturally the question arises, \"if the inhabitants of the Pre-Adamite Earth were human beings like ourselves, and were destroyed when the Pre-Adamite Earth was thrown into a chaotic form, where are their fossil remains; why have we not discovered them in the soil or rocks of the earth? \" The answer is, their \"bodies\" may have been consumed by fire, as will be the case with the rebellious hosts of Gog and Magog at the end of the Millennium (Rev. 20:7-9), and their escaping \"spirits\" became the demons referred to above. It is clear that the \"demons\" are not Satan's angels, for they are free, while the demons are confined in the Bottomless Pit and are only given liberty as it suits God's purpose. Rev. 9:1-3. Neither are they the \"Fallen Angels\" of 2Pet. 2:4, and Jude 6-7, for they are reserved in chains under darkness against the judgment of the Great Day. The \"demons\" then are in a class by themselves and for aught we know shall never be different. What we do know in reference to them is that the time is coming when they are to suffer \"torment.\" Matt. 8:29.\n\nIf death reigned on the Pre-Adamite Earth, and the bodies of the Pre-Adamites were buried in the earth, they may still remain buried in that part of the earth which they occupied, which now may be the bed of the Atlantic or Pacific Ocean. If this be so, it helps to explain the Scripture passage which reads-\"And the SEA gave up the dead which were in it; and 'Death' and 'Hell' (Hades) delivered up the dead which were in them; and they were judged every man according to his works.\" Rev. 20:13. Here we have the \"SEA\" differentiates from \"DEATH, \" (the Grave), which swallows up the body, and \"HELL' or \"HADES, \" the abode of the soul between death and the resurrection, and this seems to imply that the \"DEAD OF THE SEA\" are a different class from mankind and may refer to the dead of the Pre-Adamite World as now resting at the bottom of the sea. As God's creatures are to be judged each in his own order, it would seem no more than right that the dead of the Pre-Adamite World should be judged before the wicked dead of this present world.\n\nThe manner in which the Pre-Adamite Earth was made \"formless -and void,\" and this refers only to the exterior surface, the habitableness of the earth, is clearly revealed by Peter, where he says\n\n\"For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: Whereby the world that then was, BEING OVERFLOWED WITH WATER, perished\" I1Pet. 3:5-6\n\nIt is clear that Peter does not refer here to Noah's Flood, for the world of Noah's day did not perish, and Peter goes on to add that- \"The heavens and the earth which are now (that is, have been in existence since the restoration of the earth of Gen. 1:3-5), by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men (Great White Throne judgment).\" Rev. 20:11-13.\n\nThe manner then in which the Pre-Adamite Earth was made \"formless and void\" was by WATER. The water which lies upon the surface of the earth is about 1/4950 part of the earth's mass. If the land surface was even the water would cover it to the depth of 11 miles. Violent convulsions must have wrecked the Pre-Adamite Earth and covered its surface with the waters of its oceans. Not a living creature remained alive upon it, and its atmosphere of murky darkness hid the light of the sun, moon and stars. To all intents and purposes it was a dead planet, though the seeds of its vegetable life remained entombed in its bosom ready to spring into resurrection life on the \"Third Day.\" The absence of the warm rays of the sun caused the earth to pass through the \"Winter\" of its life, and the submerging waters were congealed into ice that preserved in \"COLD STORAGE\" the remains of immense quadrupeds and win ed creatures, that we might know the kind of animal life that inhabited the Pre-Adamite Earth. This was probably the Glacial Period of Geologic times. The Prophet Jeremiah records a vision of the time.\n\n\"I beheld the earth, and, lo, it was WITHOUT FORM AND VOID; and the heavens, and they had NO LIGHT. I beheld the mountains, and, lo, they TREMBLED, and all the hills MOVED LIGHTLY. I beheld, and, lo, there war, NO MAN, and all the BIRDS OF THE HEAVENS WERE FLED. I beheld, and, lo, the fruitful place was a WILDERNESS and all the CITIES thereof were broken down at the presence of the Lord, and by His fierce anger.\" Jer. 4:23-25.\n\nIf this was, as it appears, an account of the destruction of the Pre-Adamite Earth, then the Pre-Adamite Earth was inhabited, and its inhabitants dwelt in cities, and God's purpose in destroying the Pre-Adamite Earth was to efface all historic monuments and evidences of the sinfulness of its occupants.\n\nHow long a period elapsed between the creation of the earth and its becoming \"formless and void\" we do nor know; neither do we know how long it continued in that condition, but when the time came in the purpose of God to restore the earth to its habitable state, and make it fit for the abode of man, He did it in six periods of longer or shorter duration. The Hebrew word translated \"day\" may mean either a day of 24 hours or a longer period of time. The probability is that the time was short.\n\n3. THE PRESENT EARTH\n\nThe six days' work as described in Gen. 1:3-5 is not a description of how God made the Original earth, but bow He restored It from its \"formless and void\" condition to its present state. if the Flood of Noah's day was only local and affected only that section of the world, then the geography of the restored earth was probably the same as that of the earth today.\n\nTHE SEVEN DAYS OF THE RESTORATION WORK\n\nEra of Matter\n\n1. WORK, COSMIC LIGHT\n\n2. WORK, READJUSTMENT OF THE ATMOSPHERE\n\n3. WORK, VEGETATION REAPPEAR\n\nWORK, DRY LAND REAPPEARS\n\nEra of Life\n\n4. WORK, SOLAR LIGHT RESTORED\n\n5. WORK, CREATION OF FISH AND FOWL\n\n6. WORK, CREATION OF LAND ANIMAL\n\nWORK, CREATION OF MAN\n\n7. NO WORK, THE SABBATH\n\nTHE FIRST DAY\n\nGen. 1:2-4\n\n\"And the Spirit of God moved (brooded) upon the face of the waters. And God said, LET THERE BE LIGHT: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness He called Night. And the evening and the morning were the 'First day'.\"\n\nWhen the times came to restore the earth to a habitable condition, God began by reversing the process He took to make it uninhabitable. The Spirit of God \"brooded\" over the watery waste, and God said-\n\n\"LET THERE BE LIGHT.\"\n\nGod did not create the light, the word for create is not used. God simply said-\"Let there be light,\" just as one might say-\"Turn on the light.\" This light was not sunlight, for the clouds did not break away and permit the Sun to shine on the earth. That did not happen until the \"Fourth Day.\" The light was doubtless \"Electric Light, \" similar to the Aurora Borealis or North Lights, for we now know that Electricity is one of the primary forces and has always been in the atmosphere, although we have only in recent times learned how to harness it and compel it to light our cities. The incandescence of the atmosphere, and it doubtless was very strong and brilliant, generated a vast amount of heat that melted the icy covering of the earth and formed water, that, being evaporated, formed vaporous clouds that prepared the way for the work of the \"Second Day.\" The change from \"Darkness\" to \"Light\" caused God to call the \"Darkness\" NIGHT and the \"Light\" DAY. Thus the earth passed out of the \"Night\" of its history into the brightness of its \"Resurrection Day,\" and as each day's work was an advance on the previous day's work, each day begins with an evening and ends with a morning.\n\nTHE SECOND DAY\n\nGen. 1:6-8 \"And God said, Let there be a FIRMAMENT in the midst of the waters, and let it divide the waters from the waters. And God made the Firmament, and divided the waters which were under the Firmament from the waters which were above the Firmament: and it was so. And God called the Firmament HEAVEN. And the evening and the morning were the 'Second Day'.\"\n\nThe fact that the \"Firmament\" is called \"Heaven,\" and by the word Heaven we are to understand our Atmosphere, implies that the \"Chaotic Earth\" either had no atmosphere, or that it was not adapted to the formation of clouds, that in the form of vapor, would support water, and thus divide or separate the waters in the atmosphere from the waters on the earth. The Second Day's work then was the \"Readjustment of the Atmosphere\" to the needs of the present earth, and its evening and morning made up the \"Second Day.\"\n\nIt is worthy of note that the words-\"And God saw that it was GOOD, \" are not spoken of this Day's work, as it is spoken of the other days' work. This may not be without significance, for we read in Eph. 2:2 of the \"Powers of the AIR, \" over whom Satan is the Prince, and it may have been that as soon as the atmosphere of the earth again became habitable that the \"Powers of Evil,\" (Eph. 6:12), with Satan as their leader, swarmed into it, with the intention of making it their habitation, and so God could not say of the Firmament or Atmosphere that it was \"good.\"\n\nTHE THIRD DAY\n\nThe work of the \"Third Day\" was twofold, the emergence of the land from the sea, and the reappearance of vegetable life.\n\nFIRST WORK\n\nGen. 1:9-10\n\n\"And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land EARTH; and the gathering together of the waters called He SEAS: and God saw that it was good.\"\n\nThis is simply a reversal of the cataclysmic convulsions that submerged the Pre-Adamite Earth, and by upheaval caused the earth to emerge from its \"Watery Grave.\"\n\nSECOND WORK\n\nGen. 1:11-13\n\n\"And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit AFTER HIS KIND, whose seed is in itself UPON THE EARTH: and it was so. And the earth brought forth grass and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good. And the evening and the morning were the 'Third Day.\" This was not a new creation but a RESURRECTION. The earth rises up out of the \"Waters of Death,\" and seeds, and the roots of plants and herbs and trees are called upon to germinate and sprout and grow as they did before the catastrophe that submerged the Pre-Adamite Earth. If that catastrophe was what we know as the \"Glacial Period,\" the resurrection of plant life no more required a \"creative act\" than vegetation does in the spring of the year after the winter is over. That this was the case seems clear from the expression, \"Whose seed is in itself, UPON THE EARTH.\" That is, the seed was already in the earth, having been buried by the waters that swept over the Pre-Adamite Earth, and, being indestructible, it only needed the proper conditions to spring up and cover the earth with verdure. This reveals the fact that the Pre-Adamite Earth was clothed with verdure, and covered with plants and trees like those of our present earth.\n\nTHE FOURTH DAY\n\nGen. 1:14-16\n\n\"And God said, Let there be 'LIGHTS' in the Firmament of the heaven to divide the Day from the Night; and let them be for signs, and for seasons, and for days, and years; and let them be for LIGHTS in the Firmament of the heaven to give light upon the earth: and it was so. And God made TWO GREAT LIGHTS; the greater light to rule the day, and the lesser light to rule the night. He made the stars also. And God set them in the Firmament of the heaven to give light upon the earth, and to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good. And the evening and the morning were the 'Fourth Day'.\"\n\nThe appearance of the sun and the moon on the Fourth day was not a new creation. They had existed in connection with the Pre-Adamite Earth and bad not been destroyed when it was made waste- The words translated \"made\" in the 16th verse is not the same word as is translated \"created\" in verse one, and does not imply a \"creative\" act. What is meant is that the clouds broke away and permitted the sun and moon to be seen, and that from that time they were appointed to measure the days, and years, and seasons as we have them today. In other words, on the Fourth day \"Time\" in contrast with \"Eternity\" began.\n\nTHE FIFTH DAY\n\nGen. 1:20-22\n\n\"And God said, Let the WATERS BRING FORTH ABUNDANTLY THE MOVING CREATURE THAT HATH LIFE, AND FOWL THAT MAY FLY ABOVE THE EARTH IN THE OPEN FIRMAMENT OF HEAVEN. And God CREATED (Bara) great whales, and every living creature that moveth, which the waters brought forth abundantly, AFTER THEIR KIND, and every winged fowl AFTER HIS KIND; and God saw that it was good. 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters of the seas, and let fowl multiply in the earth. And the evening and the morning were the 'Fifth Day'.\"\n\nThe work of the \"Fifth Day\" was the CREATION of fish and fowl. Here is the first time we come across the word \"CREATE\" since we read of the original creation of the earth in verse one. This shows that all animal life was destroyed in the catastrophe that overtook the Pre-Adamite Earth. The fish and fowl that were created on the \"Fifth Day\" were the same that we have today. The fossil remains of huge marine animals and gigantic birds belong to the PreAdamite Earth.\n\nTHE SIXTH DAY\n\nThe creative work of the \"Sixth Day\" was twofold, that of land animals and of man.\n\nFIRST WORK\n\nGen. 1:24-25\n\n\"And God said, Let the earth bring forth the LIVING CREATURE AFTER HIS KIND, cattle, and creeping thing, and beast of the earth AFTER HIS KIND; and it was so. And God made (created) the beast of the earth AFTER HIS KIND, and cattle AFTER THEIR KIND, and every thing that creepeth upon the earth AFTER HIS KIND; and God saw that it was good.\"\n\nThese land animals were doubtless the same kind as we have today. The fact that they were created,\n\n\"AFTER THEIR KIND, \"\n\nwhich is 5 times repeated, shows that they were not \"evolved\" from one common specie. That all the different species of animals were created \"separately\" is proven from the fact that when species are crossed their offspring are sterile. The crossing of the jackass and a mare is the mule, and a mule is a hybrid and is sterile. If the \"Evolutionary Theory\" of the development of animal and vegetable life was true, we should expect to find evidence to that effect in fossil remains of the intermediate links, and we should also see \"evolutionary processes\" at work now whereby higher orders of animal and plant life are coming into being. But we see nothing of the kind. Animal and plant life exists today in the same form that it had excited in the knowledge of man. The birds build their nests and raise their young as they always did. The beaver builds his dam, and the bee constructs his honeycomb as they have always done. Man alone, has the faculty of improving his mode of construction. This is seen in the development of farming instruments from the crude plow a winnowing fan to the complex plow and cultivator and the combined reaper, binder, and thresher. But here we can trace the steps by the obsolete specimens of farming implements. This is not true in the animal and vegetable kingdoms, for there we find no intermediary links. If the Evolutionary Theory is correct, it should apply, to man as well as animals, and we should see by the crossing of the best specimens of the human race the evolution of a SUPERMAN but the history of the race disproves this.\n\nSECOND WORK\n\nGen. 1:26-28\n\n\"And God said, Let US make man in OUR IMAGE, after OUR LIKENESS: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God CREATED (Bara) man in His OWN IMAGE, in the IMAGE OF GOD CREATED (Bara) He him; male and female created He them. And God blessed them, and God said unto them, Be fruitful, and multiply, and REPLENISH THE EARTH, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.\"\n\nThat man also was \"CREATED\" (Bara) shows that he has not descended from an ape. Man was made in the \"IMAGE OF GOD not in the image of an \"Ape,\" and was not formed from a brute, . of the \"Dust of the Earth.\" There is an \"Impassable Gulf\" between the lowest order of man and the highest type of beast that science has failed to bridge. The \"Missing Link\" has never been found. That the whole human race is of \"One specie\" and had a common origin (Acts 17:26) is clear from the fact that, when races of the earth's inhabitants marry, their offspring are not sterile but fertile. This nullifies the argument that the white races are of different origin, and that the white race alone is the Adamic race.\n\nThere is no contradiction between the first and second of Genesis as to the creation of man. The first chapter (Gen. 1:26-28) gives the FACT of his creation, the second, the MANNER OF IT. Gen. 2:7. One is supplementary to the other. In chapter one God is spoken of as \"ELOHIM, \" the Creator; in chapter two, He is called \"JEHOVAH\" (The Lord) because He there enters into covenant relations with man. At first the name \"Jehovah\" is joined with \"Elohim\" to remove all doubt as to the identity of the Being designated by the compound word. Now while either of these names would suit some passages, in others one would be more suitable than the other. This accounts for the discriminating use of these two names by the sacred writers, and is an answer to those critics who claim that the Scriptures are a clumsy compilation of incongruous and diverse documents which they call Elohistic and Jehovistic.\n\nIn Gen. 2:7 we are told that: \"The LORD God formed (Yatsar, fashioned) man of the dust of the ground and breathed into his nostrils the 'Breath of Life;' and man became a living soul.\"\n\nThis may mean that the Lord God, fashioned man out of the \"dust of the ground\" as a sculptor fashions the statue out of clay, and then breathed into the earthy form the \"Breath of Life.\" However it was done we know the work was threefold:\n\n1. The formation of the \"BODY\"--\"And the Lord God formed man of the dust of the ground.\"\n\n2. The gift of the \"SPIRIT\"-\"And breathed into his nostrils the 'Breath of Life'.\" By\n\nthis is not meant the \"Holy Spirit,\" but the \"Spirit\" of the \"natural man\"-that part of man that must be indwelt by the Holy Spirit before he can. be born again. It is the \"God Conscious\" nature of man.\n\n3. The SOULISH part of man-\"And man became a 'Living Soul'.\" This is the seat of the \"Self-Conscious\" nature, of memory, the affections, etc.\n\nThe two principal parts of man are the BODY and the SPIRIT, but as the functions of these are separate, one being physical and the other spiritual, a third part had to be supplied called the SOUL, intermediate between them, and through which they may communicate. Thus man became a-\"Threefold Being.\" 1Thes. 5:23. Heb. 4:12. See the Chapter on \"The Spirit World.\" Section, \"The Threefold Nature of Man.\"\n\nIn Adam, as originally created, the Soul was such a perfect medium of communication between the Body and the Spirit that there was no conflict between them. The three blended together in one harmonious whole. When man fell the soul became the \"battlefield\" of the Body and the Spirit, and the conflict began that Paul so graphically describes in Rom. 7:7-9.\n\nEve was not fashioned in the same way as Adam. She was made\" sometime later. Adam had not found among all the creatures God had made a suitable companion, and God saw that it was not good for him to be alone, so He proceeded to make him an \"helpmeet.\" To this end\n\n\"The Lord God caused a 'deep sleep' to fall upon Adam and he slept; and He took one of his 'RIBS, ' and closed up the flesh instead thereof; and the 'RIB, ' which the Lord God had taken from man, made (builded) He a WOMAN, and brought her unto the man. And Adam said, This is now bone of my bones, and flesh of my flesh; she shall be called WOMAN, because she was taken OUT OF MAN.\" Gen. 2:21-23.\n\nWhile Adam and Eve were not both fashioned in the same way they were not evolved from some lower creature, but were direct creations of God, \"male and female created He them.\" Gen. 1:27. The reason why Eve was not fashioned separately from Adam, but was taken out of Adam's side, was to show that in their relation to each other as man and wife they were to be ONE FLESH. That's their interests and sympathies, etc., were to be one, and physically they were to be counterparts of each 'Other. Adam and Eve in their physical relation to each other are a type of Christ and the Church. When Eve was presented to Adam he said-\"This is now bone of my bones, and flesh of my flesh; \" and the Apostle Paul in speaking of the Church says \"'we are members of His BODY, and of His FLESH, and of His BONES. For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. This is a great 'mystery; ' but I speak concerning Christ and the Church.\" Eph. 5:30-32.\n\nAdam was not created a baby or a primitive savage, but a full-grown man perfect in intellect and knowledge, else he could not have named the beasts of the field and the fowls of the air. And the fact that his descendants had such skill in the invention of musical instruments and mechanical devices and could build cities and towers and such a vessel as the Ark, proves that the men of Antediluvian times were men of gigantic intellect and attainments, and that instead of man having \"evolved upward\" he has \"degenerated downward.\"\n\nWe see from Gen. 1:29-30, that animals and man were originally given only vegetable food, and that it was not until after the Fall that animals became carnivorous. And it was not until after the Flood that man was permitted to eat \"flesh.\" \"Every moving thing that liveth (animals) shall be meat for you; even as the green herb (.which had been their food) have I given you all things. But 'flesh' with the life thereof, which is the BLOOD THEREOF, shall ye not eat.\" Gen. 9:3-4.\n\nThat is, that in eating \"flesh\" they must first drain the \"blood\" from it, because the \"blood\" is the LIFE of the animal. It was not until after the Exodus, when the Law was given from Mt. Sinai, that God's chosen people the Jews were restricted as to the kind of creeping things, flying fowl, and beasts they should eat. Lev. 11:1-3.\n\nNote that all that God created was GOOD. \"And God saw everything that He had made, and, behold it was VERY GOOD. And the evening and the morning were the Sixth Day.\" Gen. 1:31. God is not the author of evil. Evil is the fruit of sin and disobedience. Thorns, thistles, poisonous vines, weeds, noxious beasts, as the serpent, are all the results of sin. Thus the heaven and the earth were restored and repopulated during the six days or periods of the \"Restoration Week.\"\n\nThe Bible and Science are in exact accord as to the order of the 8 works of the Restoration Week. The following Diagram shows how these 8 works could be arranged in a different order 40, 320 times (1x 2x 3x 4x 5x 6x 7x 8 = 40, 320) without any two lines being alike. Surely Moses must have been inspired, for there was only ONE chance in 40, 320, that he would have recorded them in the order that science claims they occurred. This is one of the proofs of the Divine Inspiration of the Holy Scriptures.\n\nSEVENTH DAY\n\nGen. 2:2-3.\n\n\"And on the 'Seventh Day' God ended His work which He had made; and He RESTED on the Seventh Day from all His work which He had made. And God blessed the 'Seventh Day,' and\n\nSANCTIFIED IT; because that in it He had RESTED FROM ALL HIS WORK which God created and made.\"\n\nBy God here is meant God in His Triune capacity, for, as has been well said, God the FATHER created the matter, God the SON took the matter and made the worlds and all that exists upon them, and then God the HOLY SPIRIT breathed the \"Breath of Life\" into the things that have life. John 1:1-3. Eph. 3:9. Col. 1:12-14. God rested because His work was finished. That is the only justifiable reason for resting. God rested because His work was not only finished but was GOOD. There could be no reflection upon it. But when God's perfect work was marred by sin, by the \"Fall of Man,\" His \"Sabbath Rest\" was broken. As soon as man fell it was necessary for God to resume His work, this time not to continue the creation of material things, but for the purpose of the redemption of man that he might become a \"NEW CREATION\" in Christ Jesus. 2Cor. 5:17. So Jesus in explaining His mission said, \"My Father worketh hitherto (in creation), and I work (now in REDEMPTION).\" John 5:17\n\nDiagram Of The Eight Works Of The Six Days\n\nThe Seven Cosmic Phases Of The Earth\n\nIn Gen. 2:1-3, we are simply told that God rested from His work of creating on the \"SEVENTH Day.\" The Day is not called a SABBATH Day. We are told that God BLESSED and SANCTIFIED it. That is, set it apart as a REST DAY. We are not told the length of the \"SEVENTH Day\" of the Creative Week, but it should have corresponded with the length of the other days, if sin had not shortened it.\n\nTHE SABBATH\n\nIf God instituted the \"Sabbath\" before the \"Fall of Man,\" it seems strange that the fact is not recorded in Genesis, and that Adam was not told to observe it. Nowhere in the Book of Genesis do we read of Adam, or any of his descendants, or Noah, or Abraham observing the Sabbath. The only hint we have of a \"seven-fold\" division of days is found in Gen. 7:4, Gen. 7:10, when seven days of grace were granted before the Flood came, and in Gen. 8:8-10, where a seven day period elapsed between the sending forth of the dove. The first place we read of the Sabbath is in Ex. 16:23-25., in connection with the gathering of the manna-- \"Six- days ye shall gather it; but on the SEVENTH day, WHICH IS THE SABBATH, in it there hall be none.\" Here we have the \"SEVENTH\" day designated as \"THE SABBATH.\" That the \"Seventh Day\" of the \"Creative Week\" was a type of the Sabbath is clear from Ex. 20:ll-\"For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the SEVENTH day; wherefore the Lord blessed the SABBATH day, and hallowed it.\" But we have no evidence that the Sabbath was commanded to be observed until after the Exodus, and the reason is clear. God's \"Rest Day\" was broken by the \"Fall ot Man,\" and there could be no \"rest\" until redemption was brought in, and this was typically brought in by the redemption of the Children of Israel from Egypt through the offering of the \"Passover Lamb,\" a type of Christ. The purpose of their deliverance was that they might find rest in Canaan from the weary toil and slavery of Egypt. Deut. 5:15.\n\nWhen a few weeks later the \"Ten Commandments\" were given on Mt. Sinai, the Lord said to Israel, \"REMEMBER the Sabbath Day to keep it holy,\" (Ex. 20:8), the Sabbath Day they were to remember was not the \"Seventh Day\" on which God rested, but the \"Day\" that God had appointed as the \"Sabbath Day\" at the time of the giving of the manna.\n\nThe command to observe the Sabbath was given to Israel EXCLUSIVELY. It was not given to the Gentiles. It was given to Israel as the \"SIGN\" of the \"Mosaic Covenant.\" \"Verily my Sabbaths ye shall keep: for it is a 'SIGN' between me and you throughout your generations.\" Ex. 31:13; Eze. 20:12, Eze. 20:19-21. The Sabbath Day then belongs to the Jews alone and is not binding on the Gentiles (the world), or on the Church (Christians). Nowhere in the Bible do you find God finding fault with any nation or people, except the Jewish nation, for not observing the Sabbath. As a Jewish ordinance it has never been abrogated, changed, or transferred to any other day of the week, or to any other people. It is now in abeyance as foretold in Hosea 2:11 it would be. It is to be resumed when the Jews are nationally restored to their own land. Isa. 66:23. Eze. 44:24; Eze 44:46; 1-3.\n\nIf this is true, then the \"Sabbath\" does not belong to the Church and is not to be observed by Christians, for the :Sabbath Day\" is a part of \"THE LAW, \" and Christians are not under \"LAW, \" but under \"GRACE.\" Rom. 6:14. In his letter to the Galatian Christians Paul reproved them for going back to the \"Law,\" and declared that those who did so were \"under the CURSE.\" Gal. 3:10. \"How turn ye again to the 'beggarly elements' (religious ordinances) whereunto ye desire again to be in bondage? Ye observe DAYS (Sabbath and Feast Days), and months, and times, and years. I am afraid of you, lest I have bestowed upon you labor in vain.\" Gal. 4:9-11. \"Let no man therefore judge you in meats or in drink, or in respect of a holy day, or of the new moon, or of the SABBATH.\" Col. 2:16. If Christians are under obligations to keep the \"Jewish Sabbath,\" then they are under the Jewish \"Ceremonial Law\" and should observe all the ordinances and Feast Days of the Jewish Ritual.\n\nAs an institution of Judaism, the Sabbath, with all the \"Feast Days\" and other ritualistic ceremonies and offerings of Judaism, ceased to function with the close of the Jewish Dispensation. The JEWISH Sabbath was not changed to the CHRISTIAN Sabbath, any more than \"Circumcision\" was changed to \"Baptism.\" There is no such thing as the \"CHRISTIAN Sabbath.\" \"Sabbath\" has to do with LAW, and \"Christian\" with GRACE, and to join \"LAW\" and \"GRACE\" is to unite what God has forever separated. , After the Resurrection, Christ and His Disciples never met on the Sabbath\" but on the \"FIRST DAY of the week.\" John 20:1, John 20:19. Acts 20:7. Acts 20:1. Cor. 16:2. It is true that they went into the Jewish Synagogues on the Sabbath, but not to worship, but that they might have opportunity to preach the Gospel. The \"First Day of the Week\" is the day to be observed for rest and worship by the Christian Church. It is prefigured in the Old Testament as the \"EIGHTH DAY, \" or the \"DAY AFTER THE SABBATH.\" \"Ye shall bring a sheaf of the 'FIRST-FRUITS' of your harvest unto the priest, and he shall wave the sheaf before the Lord, to be accepted for you; on the 'MORROW AFTER THE SABBATH' the priest shall wave it.\" Lev. 23:10-11. What did that \"First Fruits\" typify? Read 1. Cor. 15:20-\"Now is Christ risen from the dead, and become the 'FIRSTFRUITS' of them that slept.\" When did Christ rise from the dead and become the \"FIRST FRUITS? \" Not on the \"Sabbath,\" for He lay dead in the tomb on that day, but on the \"FIRST DAY OF THE WEEK, \" on the \"MORROW AFTER THE SABBATH.\"\n\nThe fact that the \"Birthday\" of the Church was at Pentecost, and that fell on the \"First Day of the Week,\" is further proof that the Church should keep the \"First Day of the Week\" and not the \"Seventh\" day or \"SABBATH.\"\n\nThe Jewish Sabbath links man with the \"Old Dispensation,\" the \"First Day of the Week\" links man with the \"New.\" It is claimed that the Roman Catholic Church changed the day of rest from the \"Seventh Day\" to the \"First Day of the Week,\" but the claim is false, for the Papacy did not exist until a long time after the \"First Day of the Week\" bad become a fixed day for Christian worship. It is a noteworthy fact that the whole of the \"Ten Commandments\" (Ex. 20:1-3) are reaffirmed in the New Testament, except the 'Fourth Commandment\" regarding the Sabbath. Rom. 13:8-10, Eph. 6:1-2, James 5:12, James 5:1. John 5:21. Why this omission if the Law of the \"Sabbath\" is still in force? It is called the \"LORD'S DAY.\" It belongs to Him. It is not called a \"rest day\" in the Bible. It is a day that should be filled with worship and service and holy activity. It is not a day to be spent in laziness or pleasure, or the giving of sacred concerts and the discussion of worldly betterment schemes, but a day for the teaching and preaching of the Word of God.\n\nII THE ANTDILUVIAN AGE\n\nThis extends from the restoration of the earth from its chaotic condition to the Flood. It is divided into two Dispensations.\n\nDegeneration\n\n1. The Edenic Dispensation.\n\nThis Dispensation extends from the creation of Adam to the Expulsion from the Garden. As to its duration we know nothing. It was probably very short, and was the \"Dispensation of Innocence.\"\n\nMan's existence on this planet began under the most favorable circumstances. The earth had been restored to its Primeval glory. The waters swarmed with fish and fowl. The land was one mass of luxuriant verdure, and hills and valleys and plains were covered with flocks and herds of sheep and cattle, and all kinds of beasts and animals. The air was alive with bird life, and filled with fragrance from fruits and flowers. There were no storms to terrify and destroy, for the earth was watered by a mist, and the beauty of the day and night must have been unspeakably grand. Everything must have been perfect of its kind, for we read that God saw everything He had made and behold, it was \"very good.\"\n\nBut not good enough for man-, for God took and planted a \"Garden\" eastward in Eden. A garden in which God caused to grow every tree that was pleasant to the sight and good for food, and in the midst of the garden He planted the \"Tree of Life,\" and the tree of the \"Knowledge of Good and Evil.\"\n\nThe garden was watered with a beautiful river, and when it was ready God placed Adam in it. In this garden of matchless delights, and amid scenes of indescribable loveliness, with God for his counselor, and angelic beings as visitors, with a sinless nature and environment most favorable to a pure and holy life, the progenitors of the human race were placed. The conditions were ideal.\n\nBut Adam had no companion like unto himself, and because it was not good for him to be alone, for he would be lonely even among such beautiful surroundings, God said, I will make a-helpmeet for him, and so the Lord God caused a deep sleep to fall upon Adam, and while he slumbered, the Lord God took a rib from his side and from it made Eve. This is the first use of an anesthetic in the performance of a surgical operation of which we have any record. Whether Adam slept until his side was healed, or whether the Lord God healed it at once we are not told. What must have been his surprise, when he opened his eyes to see standing by him such a beautiful creature as, Eve must have been. That Adam knew where she came from is clear from his statement-\"This is now bone of my bone, and flesh of my flesh; she shall be called WOMAN (Isha) because she was taken out of MAN (Ish).\" Gen. 2:23. It is clear that from the first Adam loved her, or he would not have risked death for her by eating of the forbidden fruit.\n\nThe first pair were happy in their sweet companionship, and doubtless believed that it would last forever. They knew nothing of the ruins of the Primeval Earth beneath their feet, now covered with the Edenic verdure of a renewed earth. Neither did they know that the heavens above them swarmed with fallen beings under the leadership of Satan, and that their happiness was to end in a \"Fall\" that would necessitate their expulsion from that \"Garden of Delights,\" and that sooner or later they should taste of physical death.\n\nIf it be charged that God should have forewarned Adam of his danger of an attack by Satan, let it not be forgotten that the commandment not to eat of the \"Tree of the Knowledge of Good and Evil\" should have caused him to beware of any being who should tempt him to disobey the command of God and eat of it. To have plainly told him of the plan of Satan would have frustrated God's purpose in the testing of Adam. True obedience is to obey without knowing why.\n\nThe purpose God had in allowing Adam to be tempted and fall is revealed in the Gospel. If God had not permitted the human race to be tested and fall, the Universe would never have had the supreme spectacle of His forgiving love and redemptive grace as revealed on Calvary.\n\nHow long after Adam was created Eve was given to him we do not know. It must have been some time, for Adam required time to name all the living creatures that were brought to him, of cattle, of fowl, and of the beasts of the field. Neither are we told how long after Eve was given to Adam before the Temptation. It is hardly likely that it was immediately, for while they were mature physically they were but as children in experience, at least Eve was, and she was unfit to cope with the seductive wiles of the Serpent, the most powerful enemy of God and man.\n\nSatan's purpose in the \"Temptation\" was to thwart God's purpose in the creation of man (the peopling of the earth with a holy race of beings), and to regain the earth, which he had lost by his rebellion. His hope was to excite God to destroy the first pair for their sin before they could populate the earth. He played his game with consummate skill. Fearing that if they were approached together they might withstand him, he awaited the time when Eve should be alone.\n\nIt is not improbable that Eve, curious to know the cause of the prohibition, had stolen away from Adam and gone off by herself to examine the Tree, and that Satan, discovering her there was not slow to take advantage of his opportunity. If Eve had avoided the vicinity of the Tree, she would not have been able to cast that look at it which made her desire to eat of its fruit. Satan saw that Eve was disgruntled about something. He wisely surmised that it was because God had forbidden Adam and Eve to eat of the Tree, so he approached her and spoke to her. The fact that Eve was not afraid to talk with the Serpent is an indication that it was not a loathsome creature, and that it was no stranger to her. She had seen it often, and probably talked with it before, for Satan does not make his supreme effort until he has first prepared the way. What the Serpent was like before it was cursed and caused to crawl instead of stand upright. We do not know, but it must have been a beautiful creature. Whether it had the power to talk or simply became a mouthpiece of Satan we are not told. What we do know is that Satan incarnated himself in it.\n\nObserving that Eve was casting longing glances at the \"Fruit\" of the Tree, the Serpent (Satan) opened the conversation by craftily asking, \"Yea hath God said, Ye shall not eat of every tree of the Garden? \" The subtility of this question is seen in its insinuating suggestion that God did not love them, and was unfair and unkind to forbid them anything. In her answer Eve betrays her feeling toward God by adding to the prohibition, saying Neither shall ye TOUCH it,\" as if God was afraid to trust her. She also altered the penalty from-\"thou shalt surely die, \" to \"lest ye die,\" thus expressing doubt as to the certainty of death. It is a dangerous thing to add to or subtract from God's word. Rev. 22:18-19. The commencement of the Fall was the \"deceitful handling\" of the Word of God. 2 Cor. 4 2.\n\nSatan was the first \"Higher Critic.\" He was the creator of the \"SEED OF DOUBT.\" - It was deposited in the heart or mind of Eve by Satan's question-\"Yea, hath GOD said? \" This led Eve to question the love of God. This \"MICROBE OF UNBELIEF\" the human race has inherited from Eve. Men do not openly deny the goodness of God so much as they question the statements of the Word of God. They say-\"Has God really said we must not do thus and so? Have we not misunderstood what He has said, or misinterpreted His meaning? Surely God is too loving and merciful to eternally punish the wicked.\"\n\nSatan having sown the \"Seed of Doubt\" and perceiving that the poison was working, next declared that God was a liar by saying\"Ye shall not surely die.\" This is the \"DEVIL'S LIE, \" and it has been incorporated into the religious systems of today that teach that man shall not be eternally punished. Satan then impugned God's motive by declaring that God did not want them to have a knowledge of \"Good\" and \"Evil\" lest they become \"gods\" like Himself. This appealed to Eve's curiosity and ambition, and stirred up a \"torrent of desire\" in her heart, and when she saw that the \"Tree\" was \"good for food\" (the Lust of the Flesh), and \"pleasant to the eyes\" (the Lust of the Eye), and \"desirable to make one wise\" (the Pride of Life), she did not wait to consult her husband, but put forth her hand and plucked and ate the fruit, and the days of her innocence were ended; and when Adam appeared, without contrition of heart, she in turn tempted him, and he not willing to be separated from her also ate, the result the ruin of the race. The Woman was deceived, but Adam was not deceived, nevertheless, the Apostle tells us, it was the \"woman's\" fault. 1Tim. 2:13-14.\n\nThe inducement that Satan held out to Eve, that the acquisition of knowledge would put her and Adam on the same plane with God, and make them GOD-LIKE, is the same inducement that Satan offers to ambitious men today, and he is seeking through his dupes to build up a magnificent civilization on the discoveries and inventions of men, and exsult man without God, and his aim is the final\n\n\"DEIFICATION OF MAN, \"\n\nthat will find its culmination in his\n\n\"SUPERMAN, \"\n\n\"THE ANTICHRIST, \"\n\nwho will sit in the Temple at Jerusalem and proclaim himself GOD. 2Thes. 2:3-4. This accounts for all the \"World Systems\" of today for the social, religious, political and commercial betterment and advancement of the race.\n\nAdam and Eve were created \"INNOCENT.\" \"Innocence\" is not \"RIGHTEOUSNESS\" \"Innocence\" cannot become \"Righteousness\" until TESTED. If Adam and Eve had stood the \"Test\" they would have become \"Righteous\" or \"Holy,\" they failed and became SINNERS. There is but one step from \"Innocence\" to \"HOLINESS, \" or from \"Innocence\" to \"SIN.\" Adam and Eve took the step from \"Innocence\" to SIN and became SINNERS. If they had taken the opposite step they would have become \"Holy\" and been beyond the possibility of \"Sin.\" Now man cannot become \"Holy\" without the New Birth.\n\nIn the Fall of man the triumph of Satan was complete. The first effect of the disobedience of Adam and Eve was SELF-CONSCIOUSNESS. \"They saw that they were NAKED.\" The result of this knowledge led them to invent clothing made of \"FIG LEAVES.\" All living creatures are clothed by nature. Fish have scales, birds have feathers, beasts have hair, or fur, or wool; even serpents have a beautifully colored skin. Many are naked when ushered into existence, but it is not long until nature provides clothing. Man alone of all God's creatures is left without clothing, and is compelled to have recourse to artificial covering. Why is this? It is the result of SIN.\n\nAdam and Eve at first wore no clothing , nor did they need to. Their state of innocence made them not ashamed. Some claim that their unfallen nature was clothed in a veil of radiant glory that hid their nakedness. This they lost in the Fall. At once, conscious of their shame, they resorted to artificial clothing. Clothes are the trappings of guilt. The style and character of clothing may change, but the guilt remains. Clothing may bide our shame from the eyes of man, but not from the eyes of God. A black heart may hide behind a white vest.\n\nThe sun set that day upon a scene that witnessed the downfall of the human race. It was a dark and fearful night. They both dreaded to meet God and so hid themselves in the forest when the Lord God came down to take His usual walk in the Garden in the cool of the day. Heretofore they had looked forward to the daily visit of the Lord God, but now they feared to face Him. Thus sin makes cowards of us all.\n\nBy questioning them the Lord God got them to sit in judgment on their own conduct. Adam blamed his fall on Eve, she blamed her fall on the Serpent. God patiently listened to them and gave them an opportunity to justify their conduct, then He passed judgment on them. But to the Serpent He gave no opportunity for justification,\n\nbut said-\n\n\"Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust thou shall eat all the days of thy life; and I will put enmity between thee and the woman, and between THY SEED and HER SEED, IT (her seed CHRIST) shall bruise thy HEAD, and THOU shalt bruise His HEEL.\"\n\nBook of Genesis\n\nIn the expression THY SEED (Satan's seed) we have a prophetic refernce to the THE ANTICHRIST who as Satan's seed is called in 2Thes. 2:3 the \"SON OF PERDITION.\"\n\nThese are the words of a judge to a condemned criminal who is awaiting sentence, and is a confirmation of Satan's previous rebellion, who here hears his doom. At once the Serpent, the tool of Satan, is changed into a crawling, loathsome, venomous reptile. The Woman's sentence was that she should lose her position as man's equal and become subject to him, and that untold sorrow and misery in motherhood should be her lot. Unto Adam God said, \"Cursed is the ground for thy sake, . . thorns also and thistles shall it bring forth to thee, . . in the sweat of thy face shalt thou eat bread, till thou return unto the ground.\" So what had been a pleasure to Adam, the care of the Garden, was henceforth to be a task, for driven out from the Garden he must make a living by tilling a soil that brought forth naturally nothing but thorns, thistles and weeds.\n\nBut Adam and Eve could not be expelled from the Garden without clothing. Their \"Fig-leaf\" raiment was not sufficient. It would not protect them from the penalty of sin, for it was man made, and man cannot be saved by his own works, so it was necessary for God to, provide a suitable raiment, a raiment that would typify the putting away of sin. So we read \"Unto Adam and his wife did the Lord God make 'COATS OF SKINS, ' and clothed them.\" Gen. 3:21.\n\nWhy did not the Lord God provide a more refined and beautiful dress? When Adam sinned did he become so \"animalized\" that skins were the only suitable dress for him to wear? No. The skins were typical. They could only be secured by the killing of some innocent animals, probably lambs, and were a type of the \"Lamb of God, \" and proclaimed the great truth that sin can only be put away by the shedding of BLOOD. Heb. 9:22. They proclaim man's reclothing. They speak of the garments of glory of the resurrection body.\n\nBut the night of that awful day was not starless. One single, \"star of promise\" lighted up the gloom. It was the promise that \"The Seed of the Woman Should Bruise the Serpent's Head, \" and eventually destroy the last trace of his slimy trail over the fields of this fair earth.\n\nIt is a significant fact that the giver of this \"Promise\" was Himself the promised\n\n\"Seed of the Woman\";\n\nand that He who clothed Adam and Eve in skins was the \"LORD GOD, \" the second person of the Trinity, who was to become the\n\n\"Lamb of God, \"\n\nwhose death on Calvary was foreshadowed by the slaying of the lambs whose skins were needed to cover the nakedness of Adam and Eve While the \"World Systems\" of this world are under the dominion of Satan, and God for some good reason permits them to be, He is not to be charged with inability to prevent Satan's work, or as being cruelly indifferent to man's lost condition, or blamed for not having stopped at once the reign of evil powers in the Universe, for immediately upon the \"Fall of Man\" God provided a redemptive remedy in the promise-\"The 'Seed of the Woman' (Christ) should bruise the :Serpent head,\" and men are lost, not because there is no way of escape from the toils of Satan, but because they will not accept God's way of escape through Christ.\n\nThe world would not be deluded by Satan's \"devices\" (2Cor. 2:11) if it would give heed to the more \"sure word of prophecy\" (2Pet. 1:19) which reveals his origin, purpose and doom. But the study of prophecy is not only neglected, but discouraged because of the way in which the scriptures are \"WRESTED\" (2Pet. 3:16) by those who use prophecy to further their own doctrinal ends, so that many condemn the study of prophecy and read the scriptures as if they said-\"We have a very 'UNCERTAIN' word of prophecy, to which you do well to pay no attention whatever.\"\n\nThe Edenic Dispensation was perfectly unique. It was characterized by the \"absence of sin, \" and the \"presence of God.\" There will be nothing like it again until \"The Tabernacle of God is with men,\" and He will dwell with them on the New Earth. Rev. 21:3. In the Edenic Dispensation God dealt with Adam on the basis of \"INNOCENCE, \" and He can never treat with man again on the same basis until the curse of sin shall be removed from the earth. Man is no longer under probation, but under condemnation. John 3:18. Ever since the Fall God has had to deal with man as a guilty, lost, helpless and ruined sinner. And not only a ruined sinner, a ruined CREATURE. There is no good thing in him, he is at \"enmity with God, and is not \"subject to the law of God, neither indeed can be.\" Rom. 8:6-7. Man is a failure.\n\nIn mercy God drove the guilty, but forgiven pair, from the Garden lest -they eat of the \"Tree of Life\"- and be doomed to live \"forever\", in their sinful mortal bodies. Thus the First Dispensation ended in failure, the human race under condemnation. and the whole earth cursed. Men claim that innocence, and a perfect environment are safeguards against wrong-doing, but the catastrophe of Eden proves that this is not true.\n\n2. The Antediluvian Dispensation.\n\nThis Dispensation extends from the \"Fall\" to the \"Flood.\" it lasted for 1656 years, and was the Dispensation of \"Conscience.\" it shows what man will do when guided only by his conscience. Adam and Eve had no conscience before the \"Fall.\" Conscience is a knowledge of good and evil, and this Adam and Eve did not have until they ate of the fruit of the forbidden tree. Conscience may produce fear and remorse, but it will not keep men from doing wrong, for conscience imparts no \"power.\"\n\nIt is probable that the Lord God explained to Adam and Eve the significance of a \"Bloody Sacrifice\" for sin, but it is a remarkable fact that Adam is not mentioned in the Scriptures as offering such a sacrifice, neither is he mentioned in the list of Old Testament worthies recorded in the eleventh chapter of Hebrews. The list begins with Abel, who is the first one mentioned as offering up a \"bloody\" sacrifice. Is this a silent hint that Adam and Eve were still unrepentant after their exclusion from the Garden?\n\nAdam and Eve had no children before the \"Fall.\" That they were created for that purpose is clear from the words God spoke to them after their creation, when He blessed them and said-\n\n\"Be fruitful and multiply and replenish the earth.\" Gen. 1:28.\n\nIn the words \"replenish the earth\" we have unmistakable evidence that the earth had been peopled before it was thrown into a chaotic condition, and that its inhabitants in some way had been destroyed. It does not follow, however, that those inhabitants were human beings like ourselves. No human remains have been found antedating the creation of man.\n\nHow soon after the expulsion from the Garden the first child was born to Adam and Eve we are not told. Probably it was not very long. The first child was a son, Cain. The name means \"gotten\" or \"acquired,\" and implies that Eve took him for the \"Promised Seed.\" She seems to have been disappointed, and when Abel was born she called him \"vapor.\" It does not follow that Abel was the second child. There may have been a number of children, both sons and daughters, born between Cain and Abel. Cain and Abel are \"Representative\" men -one of the wicked line, and the other of the righteous line from Adam.\n\nThere is an intimation in the curse imposed on Eve-\"I will greatly multiply thy conception, \" Gen. 3:16, that births were not only frequent, but that several children were born at a time. In no other way could the human race multiply as it did in those early days, and for some time after the Flood. Intermarriages among the children of the same family were not forbidden until after the Flood. Cain and Abel were not children when Cain killed Abel. They were probably over 100 years of age. Abel was a \"keeper of sheep,\" not his father's, but his own. He was a grown man and a cattle owner. Cain was an agriculturist and the possessor of large estates. We read that Adam was 130 years old when he begat Seth. Gen. 5:3. Seth was probably born soon after the death of Abel. Gen. 4:25. This would make Abel over 100 years of age at his death.\n\nThe death of Abel was probably due to a religious dispute between Cain and Abel on the merits of religious offerings. Abel claimed that a \"Bloody Sacrifice\" was necessary. Cain claimed that an offering of \"works\" taken from the soil which God had cursed was sufficient. They put the matter to a test. God accepted Abel's offering and rejected Cain's, probably answering as on Mt. Carmel by fire.\n\nThis angered Cain. He did not kill Abel that day. The Lord remonstrated with Cain and reminded him that there was still time to bring a \"sin offering.\" The expression \"sin lieth at the door\" Gen. 4:7 may be translated a \"sin offering lieth at the door\". But Cain would not listen and nursed his anger, possibly for a long time. One day, while alone in the field, Cain brought the subject up again, for we read that Cain talked with Abel about the matter (Gen. 4:8), and Cain's anger became uncontrollable and he arose from the ground where they were sitting and killed his brother. The whole thing was a scheme of Satan's to destroy Abel, through whom the \"Promised Seed\" was to come. That Abel was childless, at least did not have a son to succeed him, is clear from the fact that Seth took his place.\n\nSatan was not only the instigator of Abel's murder, he was the author of Cain's \"Religion,\" spoken of by Jude as-\n\n\"The Way of Cain.\"\n\nHere we see the origin of all human religions.\n\nWhen Cain fled he took his wife with him. He did not get his wife in the land of Nod, he \"knew her\" there. That is, she there conceived and bore a son, Enoch. This was not the Enoch of the line of Seth who was translated.\n\nAfter the birth of Enoch, Cain began to build a city. Here we have the beginning of the city with all its attendant evils. Among the descendants of Cain were Jubal, the inventor of musical instruments, and Tubal-Cain, an instructor of workers in brass and iron. Men in those days used their brains to improve and upbuild a \"godless civilization,\" and when we recall that in that age men were not cut off at threescore and ten, but lived on for nearly 1000 years, their immense accumulation of knowledge, experience and skill must have advanced the arts and sciences and resulted in the invention and manufacture of all the appliances of a luxurious civilization, with a rapidity to us almost inconceivable. The building of such a ship as that constructed by Noah is an illustration. We have the echo of that skilled civilization in the construction, after the Flood, of the Tower of Babel, and later of the Great Pyramid, which involved in its construction such a knowledge of mathematics and astronomy as the world has never as yet surpassed.\n\nThe outcome of that brilliant but godless civilization was to promote the rapid increase of population. \"Then men began to 'multiply' on the face of the earth.\" Gen. 6:1. As a result the godly descendants of Seth were, by intermarriage, swallowed up by the godless descendants of Cain, and as the sequel shows, only eight persons were fit to be saved from that foaming sea of sin in the Ark that Noah built.\n\nIn the midst of this godless civilization a startling event occurred.\n\n\"The 'Sons of God' saw the 'Daughters of Men' that they were fair; and they took them wives of all which they chose.\" Gen. 6:2.\n\nThis polygamous relation was not between the \"Sons of Seth\" and the \"Daughters of Cain,\" an amalgamation of the godly and wicked people of that day, as some suppose, but it has a far deeper meaning. The expression \"daughters of MEN\" includes the daughters of Seth as well as the daughters of Cain, hence the expression \"Sons of God\" must mean beings different from the human race.\n\nThe title \"Sons of God\" has not the same meaning in the Old Testament that it has in the New. In the New Testament it applies to those who have become the \"Sons of God\" by the New Birth. John 1:12; Rom. 8:14-16; Gal. 4:6; 1John 3:1-2. In the Old Testament it applies to the angels, and is so used five times. Twice in Genesis (Gen. 6:2-4) and three times in Job. Job 1:6, Job 2:1, Job 38:7. A \"Son of God\" denotes a being brought into existence by a creative act of God. Such were the angels, and such was Adam, and he is so called in Luke 3:38. But Adam's natural descendants are not the special creation of God. Adam was created in the \"likeness of God\" (Gen. 5:1), but his descendants were born in his likeness, for we read in Gen. 5:3, that Adam \"BEGAT a son in his own likeness, after his image.\" Therefore all men born of Adam and his descendants by natural generation are the \"SONS OF MEN, \" and it is only by being \"BORN AGAIN\" (John 3:3-5), which is a \"NEW CREATION, \" that they can become the \"SONS OF GOD\" in the New Testament sense.\n\nNow the \"Sons of God\" of Gen. 6:2, Gen. 6:4, could not be the \"Sons of Seth,\" as some claim, because the \"Sons of Seth\" were only MEN, and could only be called \"Sons of MEN, \" not \"Sons of GOD.\" This proves beyond question that the \"Sons of God\" of Gen. 6:2, Gen. 6:4, were ANGELS, and not godly descendants of Seth.\n\nThe objection is raised on the statement of Jesus that the righteous dead, when raised, \"neither marry or are given in marriage. . . . for they are equal to the angels.\" (Luke 20:27-29), that the angels are \"sexless\" and therefore cannot cohabit either with themselves or human beings. While the passage implies that the angels \"do not marry,\" it does not say that they are \"sexless,\" for that would convey the idea that the righteous at the resurrection would also be sexless, a doctrine abhorrent to the belief that husbands and wives and brothers and sisters shall know each other \"as such\" in the other world.\n\nWhat the passage does teach is that angels do not multiply by procreation. Angels were created as far as we know \"en masse,\" and as they never die there is no necessity for marriage among them. Marriage is a human institution to prevent the extinction of the race by death. What Christ sought to teach the Sadducees was, that as the resurrection would make men and women immortal there would be no occasion for the marriage relation in heaven.\n\nHowever much we may question the possibility of intercourse between angels and human beings, this account in Genesis seems to teach it. We have only to turn to the Epistles of Peter and Jude for confirmation.\n\n\"God spared not the 'angels' that sinned, but cast them down to hell (Tartarus), and delivered them into chains of darkness, to be reserved unto judgment.\" 2Pet. 2:4-6.\n\n\"The 'angels' which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains in darkness unto the judgment of the great day.\" Jude 6-7.\n\nThe angels here mentioned cannot be Satan's angels, for his angels are \"free.\" They are not \"reserved in everlasting chains in darkness,\" but are to be cast into the \"Lake of Fire\" (Gehenna), prepared for the Devil and his angels, when he is cast in. Matt. 25:41. These angels then must be a special class of angels, condemned for some particular sin, and when we read the context to these two passages the character of that sin is evident.\n\nIt was the sin of \"Fornication and Going After 'Strange Flesh.\"' Jude 7. The \"time\" of the sin is given as just before the flood. 2Pet. 2:5. It is the same sin that caused the destruction of Sodom and Gomorrah, whose inhabitants demanded of Lot, the surrender of the two Angels that he had received into his home, that they might \"know them,\" that is have carnal intercourse with them. 2Pet. 2:6-8. Jude 7. Gen. 19:5.\n\nThe Scriptures clearly teach that angels can assume fleshly bodies and eat and drink with men. Gen. 18:1-3. So the difficulty vanishes when we see that the \"Sons of God\" assumed human bodies and AS MEN married the \"Daughters of Men.\"\n\nWhat the \"First Estate\" was that they lost we do not know. They may have been some of the angels who had already left their \"first estate\" of holiness and subjection to God to follow the lead of Satan. But we must not forget that as far as we know, the Garden of Eden was not destroyed until the Flood, and of the descendants of Adam doubtless lived in the vicinity, the \"Heavenly Watchers,\" or keepers of the Garden, the \"Sons of God\" (Cherubim), Gen. 3:24, would, from time to time, see the \"Daughters of Men,\" and that they left their own \"Habitation\" (the Garden) and mingled with the \"Daughters of Men,\" thus going after\n\n\"STRANGE FLESH, \"\n\nand thus losing their \"First Estate\" as angelic beings and guardians of the Garden.\n\nAnother argument for the support of this view is the fact that the progeny of this union was a race of GIANTS, \"MIGHTY MEN \"MEN OF RENOWN.\" Gen. 6:4. Now the \"godly descendants\" of men have married \"ungodly women,\" but their offspring have never been such \"monstrosities\" as the offspring of the \"Sons of God\" and the \"Daughters of Men\" of Noah's day. The word translated \"giant\" means the \"Fallen Ones, \" the \"Nephilim.\" It is clear that those \"Mighty Men\" and \"Men of Renown,\" were not the ordinary offspring of the daughters of men, else why did they not appear before? The \"sons of Seth\" and the \"daughters of Cain\" had doubtless often intermarried before this, but there were no such children born to them. In this irruption of angelic beings into the world of men we have the source or origin whence the classic writers of antiquity obtained their notions concerning the loves of the gods and demi-gods, and the legends of beings half human and half divine.\n\nThese angels who lost their \"First Estate\" are the \"Spirits in Prison\" of whom Peter speaks in 1Pet. 3:18-20, and to whom Christ preached, not in person, but by the Holy Spirit, through Noah, in the days before the Flood.\n\n. The outcome of this invasion of the earth by the denizens of the air was the Flood, by which the contour and elevation of the Antediluvian Earth was changed, thus wiping out the Garden of Eden. This brought to an end the \"Antediluvian Age.\"\n\nIn the Antediluvian Dispensation mankind was treated as a whole. There were no nations. That Dispensation is called in Acts 17:30, the \"TIMES OF IGNORANCE, \" and is contrasted with the \"Times that are NOW, \" and we are told that in that Dispensation God \"WINKED AT\" what He could not \"OVERLOOK\" in the Legal Dispensation. Conscience was then the standard of human conduct it was the standard by which men accused or excused themselves' Rom. 2:15. The Sinaitic Law was not given until after the Exodus, being without Law there was no legal standard for sin, for \"by the Law is the KNOWLEDGE OF SIN.\" Rom. 3:20. But they were without \"excuse, \" for God was very near to mankind in those days, and His voice was heard in rebuke, as to Cain (Gen. 4:14), in communion with Enoch (Gen. 5:22-24), or in counsel as with Noah. Gen. 6:3. They were therefore not without a knowledge of God, but they glorified Him not, and God \"gave them over to VILE AFFECTIONS.\" Their daughters to cohabit with \"Fallen Angels.\" The character of that Dispensation is vividly disclosed in Rom. 1:20-22. In it man proved rather to be \"UNGODLY\" than a sinner. , The principles which governed God's administration of those TIMES OF IGNORANCE\" would not be appropriate then in the days of Moses, when God revealed His will in \"The Law.\" We must then distinguish these two Dispensations as being one \"WITHOUT LAW, \" and the other \"UNDER LAW.' This therefore would affect the \"Basis of judgment\" in these Dispensations. This distinction is brought out clearly in Rom. 2:12.\n\n\"For as many as have sinned 'WITHOUT LAW' shall also PERISH WITHOUT LAW, and as many as have sinned 'IN THE LAW' shall be JUDGED BY THE LAW.\"\n\nThis clearly shows us that \"ignorance of the Law\" is no excuse and will not save us from punishment. This \"Principle of Judgement\" will prevail at the \"Great White Throne judgment,\" when the inhabitants of both the Antediluvian and Legal Dispensations will be judged, and doubtless will be the \"Principle of judgment\" for those living in this present Gospel Dispensation, for there are two classes of persons on the earth today-(1) Those who sin without knowing of God through the Gospel, and (2) Those who know of the Gospel but who have not obeyed it. 2Thes. 1:7-9.\n\nWhile there was no \"WRITTEN LAW\" in the Dispensation before the Flood, there was an \"UNWRITTEN LAW, ' and when the Gentiles who have not the Law, do \"BY NATURE\" the things contained in the Law, they show that they have the Law WRITTEN IN THEIR HEART, for not the hearers of the Law are just (justified) before God, but the \"DOERS, \" or those who keep it. Rom. 2:11-13. This answers the question as to the salvation of the Heathen without the written or spoken Gospel. If they by nature seek after God, and show by their faith and conduct, according to their light, like Cornelius (Acts 10:1-3) that in their heart they have received Him, who dare say they will not be saved? But this does not excuse us from taking the Gospel to them.\n\nThe characteristics of the \"Antediluvian Dispensation,\" as outlined by the late Dr. A. T. Pierson, were,\n\n\"First, an advance in fulness and clearness of revelation; then gradual spirit declension; then conformity to the world, ending with amalgamation with the world; then a gigantic civilization, brilliant but godless; then parallel development of evil and good; then an 'Apostasy, ' and finally a CATASTROPHE.\"\n\nThis we shall find is the characteristic of every dispensation that follows, except the last.\n\nIII. THE PRESENT AGE\n\nThis \"Age\" extends from the Flood to the second stage of Christ's Second Com\"ing, called the \"Revelation.\" It covers four Dispensations.\n\n1. The Post-Diluvian Dispensation.\n\nThis was the Dispensation of \"Human Government.\"\n\nIf ever the human race had an opportunity to work out the theory of \"Human Government\" it was right after the Flood. Noah was an old man over 600 years of age, full of wisdom and experience, and his family, all of whom had reached manhood and womanhood, for the youngest, Shem, was 98 years old, were qualified for self-government. Behind them was the Flood with all its warnings, and in addition the accumulated knowledge from Adam down to their day. They had also the advantage of a New Covenant, called the \"Noachic Covenant.\" Gen. 8:20-22. Noah also re-established the true mode of worship by erecting an altar and sacrificing thereon, but the Dispensation was a failure like its predecessors.\n\nGod commanded Noah and his sons to be fruitful and multiply and replenish the earth, but instead of scattering, their posterity kept together, and sought to build a capital city and \"make themselves a name\" by building a \"Tower\" to heaven. This was disobedience, and God came down and confused their speech, and scattered them abroad over the face of the earth. Gen. 11:1-3. Even the names of the builders, except Nimrod (Gen. 10:8-10) are unknown. Here we have the origin of the different languages of the earth. The miracle was reversed at Pentecost. Acts 2:4.\n\nThe Dispersion of the Babelites happened about 325 years after the Flood, for we read inGen. 10:25 that in the days of Peleg, one of the descendants of Shem, that the \"earth was divided, \" that is, a portioned among the nations, and Peleg did not die until 340 years after the Flood (Gen. 11:10-12). That Dispensation lasted 102 years longer, or 427 years in all, and ended in failure like those that preceded it.\n\n2. The Patriarchal Dispensation.\n\nThis Dispensation extended from the \"Call of Abraham\" to the \"Exodus,\" a period of 430 years, and is known as the Dispensation of \"The Family.\"\n\nAfter the Dispersion from Babel, the descendants of Noah and his sons became idolaters. No doubt God had His witnesses, but there is no record of any. 'Even Abraham's father was an idolater. So God decided to single out one family and start afresh. Abraham was chosen and he proved a mighty man of faith, but his righteousness waned in his descendants. Isaac was a good man, but not so good as his father, and Jacob, Isaac's son, who succeeded to the birthright. was still less so, and the twelve sons of Jacob, with the exception of Joseph, greatly degenerated from the parent stock, and that short Dispensation of only 430 years ended with all of Abraham's descendants working as abject slaves in the brickyards of Egypt.\n\nThe last words of the Book of Genesis, \"a coffin in Egypt,\" are very suggestive. Was Egypt to be the \"Graveyard\" of all God's plan and purpose in the creation of the human race? Four times in the Book of Genesis God's plans for the human race were frustrated by Satan. First by the Fall in Eden, second by the Flood, third by the Dispersion at Babel, and fourth by the Captivity in Egypt. Is Satan mightier than God? Will he always prevail? We shall see.\n\n3. The Legal Dispensation.\n\nThis Dispensation extended from the \"Exodus\" to the \"Birth Of Christ,\" a period of 1491(? ) years, and is known as the Dispensation of the \"Law.\"\n\nAt the close of the preceding Dispensation the Children of Israel cried unto God in their bondage and He sent them a \"Deliverer\" in Moses- Heretofore God had allowed man to govern himself, now He purposed to organize a Commonwealth with laws and regulations and a \"visible\" system of worship with a local habitation or place of worship,\n\nThis government was to be \"Theocratic.\" That is, it was God's intention to Himself rule on earth through a representative that He Himself would appoint. The person chosen was Moses. When Moses died he was succeeded by Joshua. After his death the Children of Israel had no ruler, except as by reason of bondage they cried unto the Lord, and He, as circumstances required, raised up \"judges\" who governed them for about 450 years. Acts 13:20. Then they provoked God to give them a King, and Saul was selected, who reigned for 40 years. He was followed by David, who was succeeded by his son, Solomon, each of whom reigned 40 years.\n\nAt the death of Solomon, B.C. 975, the Kingdom was divided, Solomon's son Rehoboam getting two Tribes, spoken of as Judah, and Jeroboam, a usurper, ten Tribes, called Israel. Israel lasted for 254 years longer, and was carried captive to Assyria in B.C. 721, and 115 years later Judah went into exile to Babylon.\n\nIn B.C. 536, after 70 years' captivity, the Jews returned from Babylon, and from B.C. 166-40 strove under the Asmoneans to regain supremacy over Palestine, but in B.C. 40, Herod the Great, an Idumean, was made king by the Romans, and in A. D. 70 Jerusalem was sacked and burned by Titus, and the Jews driven out of Palestine.\n\nIn the \"Legal Dispensation\" God dealt with a chosen nation, Israel. His dealings with them was based on a \"WRITTEN LAW\" given at Mt. Sinai. This \"Ceremonial Law\" was given to Israel only, and not to an other nation. Israel then is to be judged according to their observance of it. The \"Ceremonial Law,\" as far as its outward observance, ceased at the destruction of Jerusalem in A. D. 70\n\nThe Law is based on the JUSTICE of God, and so knows no MERCY. It accounts for the destruction of the enemies of God, and of their cities and nations, and why God fought for His chosen people Israel. It also accounts for the \"Imprecatory Psalms.\"\n\nThe Legal Dispensation was a wonderful period in that it was full of the \"Miraculous Interposition\" of God in behalf of His people. He delivered them from Egypt after visiting that land with plagues and destroying the first-born, and opening the Red Sea. He spoke to them in an awe-inspiring manner from. Mt. Sinai. He took up His abode with them in the \"Pillar of Cloud and of Fire.\" He fed them in the Wilderness in a miraculous manner for 40 years, and then walled back the waters of the Jordan and conducted them safely into the Promised Land, and helped them conquer it.\n\nFor centuries He watched over and protected them from their enemies, but when they forsook Him and became idolaters, His \"Glory\" left the Temple and He gave them over to their enemies, and when He sent the \"Promised Seed\" they were so filled with unbelief and hatred that they said this is the \"Heir,\" let us kill Him, and they took and crucified the \"Lord of Glory,\" and that Dispensation ended, as did all its predecessors, in the revelation that man is not only a\n\nfailure, but blind and ungrateful.\n\n4. The Ecclesiastical Dispensation.\n\nThis is the Dispensation of \"Grace\" and extends from the \"Cross\" to the \"Crown\" for Christ, and from the \"Descent of the Holy Spirit\" to the \"Rapture of the Church\" at the Second Coming of Christ for the Believer. This Dispensation is a\n\n(PARENTHETICAL DISPENSATION)\n\nthrown in between the \"Dispersion\" of Israel, and their \"Restoration\" to their own land. The purpose of this Dispensation is to gather out a \"People for His Name, \" called\n\nTHE CHURCH,\n\ncomposed of both Jew and Gentile.\n\nThis purpose of God was not revealed in the Old Testament Scriptures, and was unknown to the Patriarchs and Prophets. Christ was the first one to hint at it, when He said of Peter's confession,\n\n\"On this rock I will build MY CHURCH.\" Matt. 16:18.\n\nPaul calls it \"The Mystery, which in other Ages (0. T. Ages), was not made known unto the sons of men\" (Eph. 3:3-5), and adds that it was \"hid in God\" from the \"beginning of the World.\" Eph. 3:9.\n\nThat the Gentiles were to be \"saved\" was no Mystery. Rom. 9:24-26. The \"Mystery\" was the fact of the purpose of God to \"unite the Jew and the Gentile\" in a wholly \"new thing\"-- The Church which is His (Christ's) BODY. I Cor. 12-12-13. This will be brought out fully in the chapter on \"The Church.\" In this Dispensation we are under the \"Davidic Covenant,\" the sign of which is \"A SON\"-JESUS, and neither Jews nor Gentiles are dealt with as such. God is not dealing with the nations today but with INDIVIDUALS. The characteristic of this Dispensation is that \"Blindness IN PART is happened to ISRAEL, until the 'Fullness of the Gentiles' be come in.\" Rom. 11:25. God is calling out through the agency of the Holy Spirit individuals from both Jews and Gentiles to form a NEW BODY, the CHURCH, separate and distinct from both Jews and Gentiles. This \"New Body\" is not under LAW but GRACE. Rom. 6:14. The \"Basis of judgment\" is our acceptance of the Lord Jesus Christ as our personal Saviour. When Christ took His seat upon the Father's Throne, He changed it from a \"Throne of JUSTICE\" to a \"Throne of GRACE, \" and God's attitude in this Dispensation is one of favor and longsuffering toward wicked men and nations. 2Pet. 3:9.\n\nSo much for the \"purpose\" of this Dispensation. But how is it to end? We have seen that all the five preceding Dispensations have ended in failure-the Edenic in the \"Fall,\" the Ante Diluvian in the \"Flood,\" the Post Diluvian in the \"Confusion of Tongues,\" the Patriarcbal in \"Egyptian Bondage,\" and the Legal in the \"Crucifixion of Christ.\" Is this Dispensation to be an \"exception\" to all the preceding ones? What we know of the past Dispensations is History; how this Dispensation is to end is subject of Prophecy.\n\nThe common view is that the world is to be converted by the preaching of the Gospel, which will usher in the Millennium, and that this Dispensation is to be a glorious success. But that is not the teaching of the Scriptures. The Scriptures teach that the \"Wheat\" and \"Tares\" are to continue growing side by side \"until the Harvest,\" which is the end of this Dispensation; that the \"Good\" and \"Bad Fish\" are to be found in the \"same Dragnet; \" that the \"Sheep and the \"Goats\" will continue to \"browse together; \" and that the \" Wise and Foolish Virgins\" shall keep on slumbering and sleeping it until the Bridegroom comes.\"\n\nChrist Himself said that when He came back He would not find \"Faith\" (the Faith) on the earth. Luke 18:8.\n\nAnd Paul warns us that in the last days of this Dispensation\"Perilous Times Shall Come.\" 2Tim. 3:4-5.\n\nJesus told us that the closing days of this Dispensation would be like the days just before the flood.\n\n\"As the days of Noah were, so shall also the coming of the Son of Man be. For as in the days that were before the Flood they were eating and drinking, marrying and giving in marriage (this may refer to the marriage of the \"Sons of God\" and the \"Daughters of Men\"), until the day that Noah entered into the Ark, and knew not until the Flood came and took them all away; so shall also the coming of the Son of Man be.\" Matt. 24:37-39.\n\nLet us glance back for a moment at the characteristics of those \"Noah Days\" and we shall have an idea of the character of the closing days of this Dispensation. We mention but seven features.\n\n1. A Tendency to Worship God Simply as Creator, and Not as Jehovah Requiring\n\nAtonement for Sin.\n\n2. There was a Rapid Advance in Civilization and in the Arts and Sciences.\n\n3. There was a Union of the Holy Line of Seth and the Wicked Line of Cain.\n\n4. A Vast Increase of Population and Congestion of Population in the Great Cities.\n\n5. Undue Prominence of the Female Sex and Disregard of the Primal Law of Marriage.\n\n6. Unlawful Intercourse of \"Denizens of the Air\" With the Daughters of Men.\n\n7. The Rejection of the Preaching of Enoch and Noah.\n\nA careful observer of the \"Signs of the Times\" will note that all these features are characteristic of these days, and warn us that we are rapidly approaching the close of this Dispensation. We are living in the days of the revival of \"Spiritism.\" The air is full of \"Seducing Spirits,\" and there is a revival of the \"Doctrine of Devils.\" 1Tim. 4:1. It is no longer called Spiritualism but \"Psychical Research\"and now they have a new name-\"Immortalism.\"\n\nThe preaching of today as to the \"Coming of the Lord\" is also largely rejected, thus fulfilling the words of Peter:\n\n\"Knowing this first, that there shall come in the last days Scoffers walking after their own lusts and saying-Where is His the Promise of His Coming? \" 2Pet. 3:3-4.\n\nSoon the Holy Spirit will no longer strive with men, as He ceased to do before the Flood, though God gave them 120 years' warning (Gen. 6:3), and will go back with the Church when it is called out of the world, and the world will be left for judgment. From this we see that this Dispensation, like all that have preceded it, will end in Apostasy.\n\nDISPENSATION OF JUDGMENT\n\nBetween the \"Ecclesiastical Dispensation\" and the \"Millennial Dispensation\" there is another\n\nPARENTHETICAL DISPENSATION,\n\nthe\n\nDISPENSATION OF JUDGMENT,\n\nduring which the \"Jews,\" the \"Gentiles,\" and the \"Church\" are to be judged, not as individuals, but nationally or as bodies. The \"Church\" is to be caught out at the beginning of this Dispensation and judged at the \"Judgment Seat of Christ.\" 2Cor. 5:10. The Jews are to be judged during the Dispensation under Antichrist on the earth. Their judgment is known as the \"Time of Jacob's Trouble.\" Jer. 30:4-6. Dan. 12:1. The Gentiles (the Nations) are to be judged at the close of the Tribulation, when the Lord Jesus Christ shall descend from Heaven and sit on the \"Throne of His Glory\" at Jerusalem, and all nations shall be gathered in their representatives before Him. and the \"Sheep Nations\" shall be rewarded by entrance into the Millennial Kingdom, and the \"Goat Nations,\" as NATIONS shall be destroyed. Matt. 25:31-33.\n\nThe Dispensation Of Judgement\n\nRegeneration\n\nIV. THE AGE OF AGES\n\nThis is a \"Dual Age\" and includes the \"Millennial Age\" and the \"Perfect Age,\" between which the earth is to be \"Renovated by Fire.\" The Present Age is to end by the \"Rapture\" of the Church, followed by the \"Great Tribulation,\" and the \"Age of Ages' is to be ushered in by the \"Revelation\" of Christ, when He shall return to the earth, and after judging the \"Nations,\" shall set up His Millennial Kingdom.\n\n1. The Millennial Age.\n\nWriters and poets have written and sung of a \"Golden Age,\" an Age of universal righteousness and peace; and the Jews believe that the Seventh Thousand of years from the Creation is to be a \"Sabbath of Rest,\" and that a description of that Age is given to us in the Old Testament Prophets. That there is to be a period of 1000 years during which Satan shall be bound and Christ shall reign on this earth is clearly revealed in the New Testament. This period is mentioned six times in the Book of Revelation. Rev. 20:1-3.\n\nThe Scriptures mention seven great \"Dispensational Tests\" of man from his creation until the New Heaven and the New Earth appear. He was tested in \"Innocence\" in the Garden of Eden; under \"Conscience\" before the Flood; under \"Human Government\" at Babel; under the \"Headship of the Family\" under the Patriarchs; under \"Law\" before Christ; he is now being tested under \"Grace; \" and he is to have one more test before God will give him up as hopelessly, incurably, incorrigibly God-hating and disobedient, and that test will be final and deprive him of his last shadow of excuse.\n\nWhat is that excuse? Man charges his fall and his continuance in sin to Satan. \"Take him away,\" he cries, \"paralyze his power; cripple his malignant activity; bind him and deliver us from his dominating influence, and then you will see that man is radically good and virtuous, and is simply the victim of an unfavorable environment.\"\n\nGod answers it shall be done. Satan shall be bound so that he can no longer deceive men; and lest man shall say that sinful habits are too deeply rooted to be soon eradicated, the test shall last for a thousand years, and man shall have during that period of probation all the blessed influences of the Holy Spirit.\n\nBut we shall see as we study the outcome of the \"Millennial Age\" that when Satan is loosed, man will reveal the fact that he is still a rebellious creature, for that Dispensation, like all that preceded it, will end in Apostasy. Rev. 20:7-9.\n\nIn the Millennial Dispensation God will deal with mankind as a whole, but as mad up of nations. The Church will not be on the earth, only represented by those who will assist Christ, as it is THE KING, in His Administration of the Millennial Kingdom. The Jews, as a nation, will then be the HEAD OF THE NATIONS. Deut. 28:13. While they will in part observe the \"Ceremonial Law,\" they will be under a \"NEW COVENANT.\" Jer. 31:31-33. Heb. 8:7-9. The principle under which God will deal with men in those days will not be Law, Grace or judgment, but RIGHTEOUSNESS. The Government will be based on \"Righteousness.\" It will be an. \"Autocratic Government,\" for Christ will rule with a \"ROD OF IRON\" (Isa. 11:1, Isa. 11:4; Rev. 2:27, Rev. 19:15; Psa. 2:9), but that rule will be based on LOVE. As Satan will be bound at that time, the character of the Millennial Dispensation will be entirely different from all preceding Dispensations, and cannot be classed with them.\n\n2. The Perfect Age.\n\nAt the close of the \"Millennial Age,\" the present earth is to be \"Renovated by Fire,\" the outcome of which will be a \"New Heaven\" and a \"New Earth\" Wherein Dwelleth Righteousness. 2Pet. 3:13.\n\nIt is this \"Perfect Kingdom that Christ surrenders to the Father,\" (1Cor. 15:28), for the \"Millennial Kingdom\" is not perfect, there is sin in it, and it ends in \"Apostasy.\" This \"Perfect Kingdom\" is also a Dispensation, the \"Dispensation of the Fulness of Times.\" Eph. 1:10. 'I'he \"Millennial Kingdom\" and the \"Perfect Kingdom\" make up the \"Kingdom of the SON OF MAN.\"\n\nV. THE AGES OF THE AGES\n\nAs the \"Creative Ages\" were the \"Alpha\" Ages, these will be the \"Omega\" Ages. With the surrender of the \"Perfect Kingdom\" to the Father, what we speak of as \"Time\" ceases, and the \"Eternal Ages,\" called the \"Ages of the Ages,\" begin. They correspond to what the Apostle Paul in his Letter to the Ephesians calls the \"Ages to Come.\" Eph. 2:7. And John in the Book of Revelation says that the \"Devil\" and the \"Beast\" and the \"False Prophet\" shall be tormented day and night forever and ever, or for the \"Aions\" of the \"Aions, \" the \"Ages of the Ages, \" (Rev. 20:10), and that the \"Servants of God\" shall reign for the same period. Rev. 22:S.\n\nWhat those \"Ages of Ages\" shall reveal of the Plan and Purpose of God we do not know, but if we are His we shall live to know, and possibly take part in their development. What we do know is that we are but in the beginning of things, and as concerning the \"Ages, \" Eternity is still young.\n\nThe Worlds Seven Great Crises\n\nThe Prophetic Days of Scripture",
+  "sourceTextLabel": "Clarence Larkin · Dispensational Truth · Chapter V · online transcription",
+  "sourceImageMetadata": {
+    "url": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+    "width": 2018,
+    "height": 908,
+    "sha256": "ece992105616ed9a6b915bb648ab8d9376bbad92efeeeda48f1615f17a76f31d",
+    "unaltered": true,
+    "visualInspection": "Full image and enlarged left/centre/right crops examined."
+  },
+  "unverified": [],
+  "parallelBands": [
+    {
+      "id": "generation-band",
+      "title": "Generation",
+      "startPeriod": "original-earth",
+      "endPeriod": "restored-earth",
+      "summary": "The original diagram groups the Original, Chaotic, and Restored Earth under its creation imagery and the larger “Generation” heading. This is the creation context, not a further numbered dispensation.",
+      "references": ["Genesis 2:4"],
+      "details": [
+        {
+          "label": "Source geometry",
+          "text": "A large arc encloses the three earth images and the Creative Week."
+        },
+        {
+          "label": "Source context",
+          "text": "Alpha / Creative Ages sits at the left; no numerical duration is given."
+        }
+      ],
+      "sourceLocation": "Chart: far-left “Generation” arc, with Genesis 2:4 printed beneath the heading.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "id": "degeneration-band",
+      "title": "Degeneration",
+      "startPeriod": "edenic",
+      "endPeriod": "judgment-interval",
+      "summary": "The chart’s Degeneration band runs over the fallen course of history toward the Revelation. It is a separate large-scale heading, not the name of an extra dispensation.",
+      "references": [],
+      "details": [
+        {
+          "label": "Reading the band",
+          "text": "The Fall starts the downward course; the main drawing’s larger framework is Generation, Degeneration, Regeneration."
+        }
+      ],
+      "sourceLocation": "Chart: large central Degeneration band.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "startLabel": "The Fall in the Edenic period",
+      "endLabel": "The Revelation",
+      "startWithinPeriod": true
+    },
+    {
+      "id": "regeneration-band",
+      "title": "Regeneration",
+      "startPeriod": "messianic",
+      "endPeriod": "fulness",
+      "summary": "Regeneration is the large arc over the Millennial and Perfect ages. The source associates the new future order with this label, while retaining its two different ages and the renovation by fire between them.",
+      "references": ["Matthew 19:28"],
+      "details": [
+        {
+          "label": "Source geometry",
+          "text": "The Regeneration heading encloses the Age of Ages group."
+        },
+        {
+          "label": "Separate stages",
+          "text": "Millennial Age, renovation by fire, and Perfect Age are not collapsed into one dispensation."
+        }
+      ],
+      "sourceLocation": "Chart: right-hand Regeneration heading and its printed Matthew 19:28 reference.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "id": "times-gentiles",
+      "title": "Times of the Gentiles",
+      "startPeriod": "legal",
+      "endPeriod": "judgment-interval",
+      "summary": "Larkin draws this line from B.C. 606 inside the Legal Dispensation, across the Church period, to the Revelation. It must not be moved to the beginning of Law or equated with the “Fulness of the Gentiles”.",
+      "references": ["Luke 21:24"],
+      "details": [
+        {
+          "label": "Exact opening label",
+          "text": "B.C. 606, inside the Legal Dispensation."
+        },
+        {
+          "label": "Exact closing boundary",
+          "text": "The Revelation, at the end of the judgment interval."
+        },
+        {
+          "label": "Historical chronology",
+          "text": "B.C. 606 is Larkin’s printed date; the app does not replace it with another chronology."
+        }
+      ],
+      "sourceLocation": "Chart: long lower horizontal line, “The Times of the Gentiles”, Luke 21:24.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "startLabel": "B.C. 606 · within the Legal Dispensation",
+      "endLabel": "The Revelation",
+      "startWithinPeriod": true
+    },
+    {
+      "id": "fulness-gentiles",
+      "title": "Fulness of the Gentiles",
+      "startPeriod": "ecclesiastical",
+      "endPeriod": "ecclesiastical",
+      "summary": "This label runs across the Ecclesiastical Dispensation. Larkin’s explanation connects it with the gathering of the Church and Romans 11:25. It is distinct from the longer Times of the Gentiles line beneath it.",
+      "references": ["Romans 11:25"],
+      "details": [
+        {
+          "label": "Exact chart label",
+          "text": "“Fulness of the Gentiles”."
+        },
+        {
+          "label": "Source citation",
+          "text": "Romans 11:25 is cited in the explanatory Ecclesiastical section, rather than printed on this particular horizontal label."
+        }
+      ],
+      "sourceLocation": "Chart: horizontal centre of period 6; chapter V, III.4.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "startLabel": "The Ecclesiastical Dispensation",
+      "endLabel": "The Rapture"
+    },
+    {
+      "id": "priesthood-christ",
+      "title": "Priesthood of Christ",
+      "startPeriod": "ecclesiastical",
+      "endPeriod": "ecclesiastical",
+      "summary": "Above the Church period, the Ascension of Christ leads to the Priesthood of Christ. The Descent of the Holy Spirit is a distinct downward branch. The band here identifies that parallel heavenly ministry; it does not impose a date for the cessation of Christ’s priesthood.",
+      "references": ["Mark 16:19", "Romans 8:34", "Hebrews 4:14-16"],
+      "details": [
+        {
+          "label": "Original placement",
+          "text": "Above the First Advent and Ecclesiastical Dispensation."
+        },
+        {
+          "label": "Source distinction",
+          "text": "Ascension of Christ and Descent of the Holy Spirit are separate arrows."
+        }
+      ],
+      "sourceLocation": "Chart: upper arch “Priesthood of Christ”.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "startLabel": "Ascension of Christ",
+      "endLabel": "Heavenly ministry above the Church period"
+    },
+    {
+      "id": "second-advent-span",
+      "title": "Second Advent",
+      "startPeriod": "judgment-interval",
+      "endPeriod": "judgment-interval",
+      "summary": "The chart uses Second Advent for a span with two stages: the Rapture and the Revelation. Between them are the heavenly judgment and marriage imagery and the earthly Antichrist and judgment imagery.",
+      "references": ["1 Thessalonians 4:14-18", "Zechariah 14:4"],
+      "details": [
+        {
+          "label": "First stage",
+          "text": "The Rapture: Christ meets His Church."
+        },
+        {
+          "label": "Second stage",
+          "text": "The Revelation: Christ comes with His saints."
+        },
+        {
+          "label": "Between the stages",
+          "text": "Daniel’s Seventieth Week is drawn underneath."
+        }
+      ],
+      "sourceLocation": "Chart: “Second Advent” horizontal label and the adjacent upward/downward branches.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "startLabel": "The Rapture",
+      "endLabel": "The Revelation"
+    },
+    {
+      "id": "kingdom-son-of-man",
+      "title": "Kingdom of the Son of Man",
+      "startPeriod": "messianic",
+      "endPeriod": "fulness",
+      "summary": "Larkin’s Kingdom of the Son of Man arc spans both the Millennial and Perfect ages. His chapter explicitly says that the Millennial Kingdom and the Perfect Kingdom together make up that kingdom.",
+      "references": ["1 Corinthians 15:24-28"],
+      "details": [
+        {
+          "label": "Includes",
+          "text": "Millennial Age and Perfect Age."
+        },
+        {
+          "label": "Distinct from Omega",
+          "text": "The surrender to the Father and “God All And In All” boundary lead to the Omega ages beyond."
+        }
+      ],
+      "sourceLocation": "Chart: arc above the two future ages; chapter V, IV.2.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif"
+    },
+    {
+      "id": "paradise-branches",
+      "title": "The two Paradise labels",
+      "startPeriod": null,
+      "endPeriod": null,
+      "summary": "The chart places an earlier Paradise below the earthly line and a later Paradise above it. Its lower caption calls the former abode of the righteous dead now empty following Christ’s resurrection; its upper caption locates the souls of the righteous dead above since that resurrection.",
+      "references": [
+        "Ephesians 4:8-10",
+        "Revelation 1:18",
+        "2 Corinthians 12:1-4"
+      ],
+      "details": [
+        {
+          "label": "Lower source label",
+          "text": "Paradise: abode of the souls of the righteous dead until Christ’s resurrection; “is now empty”."
+        },
+        {
+          "label": "Upper source label",
+          "text": "Paradise: where the souls of the righteous dead are since Christ’s resurrection."
+        },
+        {
+          "label": "Relationship type",
+          "text": "This is a spatial and resurrection relationship in the drawing, not an independently dated era."
+        }
+      ],
+      "sourceLocation": "Chart: upper Paradise cloud and lower Paradise compartment.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "spatial": true
+    },
+    {
+      "id": "underworld-relationships",
+      "title": "The Underworld and resurrection routes",
+      "startPeriod": null,
+      "endPeriod": null,
+      "summary": "The lower source diagram distinguishes the Grave, Paradise, Hell, the Great Gulf, Tartarus, the Abyss / Bottomless Pit, and the Lake of Fire. Its branches represent different routes and judgments; these locations are not combined into one chronological period.",
+      "references": [
+        "2 Peter 2:4",
+        "Jude 1:6",
+        "Matthew 25:41",
+        "Revelation 19:20",
+        "Revelation 20:10",
+        "Revelation 20:14-15"
+      ],
+      "details": [
+        {
+          "label": "The Grave",
+          "text": "Shown separately from the soul’s abode, with resurrection routes rising from it."
+        },
+        {
+          "label": "Paradise, Hell, and Great Gulf",
+          "text": "Distinct compartments and separation in Larkin’s underworld illustration."
+        },
+        {
+          "label": "Tartarus",
+          "text": "Labelled Prison of the Fallen Angels, with 2 Peter 2:4 and Jude 6."
+        },
+        {
+          "label": "Abyss / Bottomless Pit",
+          "text": "Connected to Satan’s binding and release."
+        },
+        {
+          "label": "Lake of Fire",
+          "text": "The beast and false prophet, Satan, and the wicked are depicted with distinct entry routes and times."
+        },
+        {
+          "label": "Source completeness",
+          "text": "Use Original chart to examine every arrow and small label; this relationship panel is a textual guide to the spatial drawing."
+        }
+      ],
+      "sourceLocation": "Chart: the complete lower Underworld diagram.",
+      "sourceUrl": "https://preservedwords.com/disptruth/images/4-rightly.gif",
+      "spatial": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "periods": 11,
+  "numberedDispensations": 8,
+  "events": 18,
+  "ages": 3,
+  "subAges": 2,
+  "parallelBands": 7,
+  "uniqueScriptureReferences": 38,
+  "sourceQuoteChecks": 17,
+  "originalPlateUnchanged": true,
+  "originalPlateSha256": "ab0ff89db61b1c686da58e089c9d78bf6eee1d57c27db4d8cb7cc4eab49114cb"
+}

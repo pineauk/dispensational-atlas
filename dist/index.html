@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#214b43" />
+    <meta
+      name="description"
+      content="Explore Clarence Larkin and C. I. Scofield through interactive dispensational charts, original sources, and a King James Bible reader."
+    />
+    <title>Dispensational Atlas — Larkin &amp; Scofield</title>
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+    <script defer src="/data.js"></script>
+    <script defer src="/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#study-title">Skip to chart</a>
+    <header class="site-header">
+      <a
+        class="brand"
+        href="#chart=larkin-ages"
+        aria-label="Dispensational Atlas home"
+        ><span class="brand-mark" aria-hidden="true">A</span
+        ><span
+          >Dispensational <b>Atlas</b
+          ><small>LARKIN &amp; SCOFIELD · KJV STUDY EDITION</small></span
+        ></a
+      >
+      <div class="header-actions">
+        <button
+          class="text-button"
+          id="compare-button"
+          aria-label="Compare charts"
+        >
+          <span data-icon="columns"></span><span>Compare</span></button
+        ><button
+          class="text-button"
+          id="sources-button"
+          aria-label="View source register"
+        >
+          <span data-icon="book"></span><span>Sources</span></button
+        ><button
+          class="icon-button"
+          id="theme-button"
+          aria-label="Switch to dark appearance"
+          title="Change appearance"
+        >
+          <span data-icon="moon"></span>
+        </button>
+      </div>
+    </header>
+    <main class="page-shell">
+      <section class="intro" aria-label="Introduction">
+        <div>
+          <p class="eyebrow">THE AGES, AT A GLANCE</p>
+          <h1>
+            Explore the story.<br class="mobile-break" />
+            Examine the sources.
+          </h1>
+          <p class="intro-copy">
+            Three historical studies, made interactive. Follow each author’s
+            arrangement of Scripture with the original close at hand.
+          </p>
+        </div>
+        <div class="edition-stamp">
+          <span data-icon="book-open"></span
+          ><span
+            >King James Version<small>Scripture opens in the app</small></span
+          >
+        </div>
+      </section>
+      <nav class="study-nav" aria-label="Choose a chart" id="study-nav"></nav>
+      <section class="study-heading">
+        <div>
+          <p class="eyebrow" id="study-author"></p>
+          <h2 id="study-title" tabindex="-1"></h2>
+          <p id="study-subtitle"></p>
+        </div>
+        <div class="study-actions">
+          <button class="text-button" id="share-button">
+            <span data-icon="link"></span>Copy link</button
+          ><button class="text-button" id="print-button">
+            <span data-icon="printer"></span>Print</button
+          ><button class="text-button" id="presentation-button">
+            <span data-icon="screen"></span>Present</button
+          ><button class="primary-button" id="tour-button">
+            <span data-icon="play"></span>Guided study
+          </button>
+        </div>
+      </section>
+      <div class="study-workspace">
+        <section class="chart-column" aria-label="Interactive chart">
+          <div class="chart-card" id="chart-card">
+            <div class="chart-toolbar">
+              <div
+                class="segmented"
+                role="group"
+                aria-label="Chart presentation"
+              >
+                <button data-view="modern" aria-pressed="true">
+                  Interactive</button
+                ><button
+                  data-view="original"
+                  aria-pressed="false"
+                  id="original-view-button"
+                >
+                  Original chart</button
+                ><button data-view="outline" aria-pressed="false">
+                  Study outline
+                </button>
+              </div>
+              <div class="chart-tools">
+                <div class="zoom-controls" aria-label="Zoom controls">
+                  <button
+                    class="icon-button"
+                    id="zoom-out"
+                    title="Zoom out"
+                    aria-label="Zoom out"
+                  >
+                    <span data-icon="minus"></span></button
+                  ><span id="zoom-level" aria-live="polite">100%</span
+                  ><button
+                    class="icon-button"
+                    id="zoom-in"
+                    title="Zoom in"
+                    aria-label="Zoom in"
+                  >
+                    <span data-icon="plus"></span></button
+                  ><button
+                    class="text-button fit-button"
+                    id="zoom-fit"
+                    title="Fit chart to width"
+                    aria-label="Fit chart to width"
+                  >
+                    <span data-icon="fit"></span><span>Fit</span>
+                  </button>
+                </div>
+                <button
+                  class="text-button fullscreen-button"
+                  id="fullscreen-button"
+                  title="Expand chart to full screen"
+                  aria-label="Expand chart to full screen"
+                  aria-pressed="false"
+                  aria-controls="chart-card"
+                >
+                  <span data-icon="fullscreen"></span><span>Full screen</span>
+                </button>
+              </div>
+            </div>
+            <div class="search-row">
+              <label class="search-box"
+                ><span data-icon="search"></span
+                ><input
+                  id="search-input"
+                  type="search"
+                  placeholder="Find a period, event, or Scripture…"
+                  autocomplete="off"
+                  aria-label="Search this chart"
+                /><kbd>/</kbd></label
+              ><span id="search-count" aria-live="polite"></span>
+            </div>
+            <div id="search-results" class="search-results" hidden></div>
+            <div class="diagram-caption">
+              <span id="diagram-caption"></span
+              ><span class="diagram-hint"
+                >Select an era or event to explore
+                <span aria-hidden="true">↗</span></span
+              >
+            </div>
+            <div
+              id="chart-viewport"
+              tabindex="0"
+              aria-label="Chart canvas; scroll horizontally to explore, use zoom controls to enlarge"
+            >
+              <div id="chart-surface"></div>
+            </div>
+            <div id="chart-legend" class="chart-legend"></div>
+            <div id="relationship-strip"></div>
+            <div class="chart-footer">
+              <span
+                ><span class="status-dot"></span>Source wording retained in the
+                study panel</span
+              ><button class="inline-link" id="edition-button">
+                About this edition <span aria-hidden="true">↗</span>
+              </button>
+            </div>
+          </div>
+          <div id="tour-bar" class="tour-bar" hidden>
+            <div>
+              <p class="eyebrow" id="tour-step"></p>
+              <strong id="tour-title"></strong>
+            </div>
+            <div>
+              <button
+                class="icon-button"
+                id="tour-prev"
+                aria-label="Previous study step"
+              >
+                <span data-icon="arrow-left"></span></button
+              ><button class="primary-button" id="tour-next">
+                Next <span data-icon="arrow-right"></span></button
+              ><button
+                class="icon-button"
+                id="tour-close"
+                aria-label="End guided study"
+              >
+                <span data-icon="x"></span>
+              </button>
+            </div>
+          </div>
+          <section class="context-card">
+            <div class="context-heading">
+              <span data-icon="layers"></span>
+              <h3>Reading this chart</h3>
+            </div>
+            <div id="context-content"></div>
+          </section>
+        </section>
+        <aside
+          class="detail-panel"
+          id="detail-panel"
+          aria-label="Selected item study notes"
+        >
+          <div id="detail-content"></div>
+        </aside>
+      </div>
+      <footer class="site-footer">
+        <p>
+          Dispensational Atlas <span>·</span> A modern study companion to
+          historical sources.
+        </p>
+        <p>
+          Original interpretation and KJV Scripture are identified separately.
+          <button class="inline-link" id="footer-sources">View sources</button>
+        </p>
+      </footer>
+    </main>
+    <dialog id="reader-dialog" aria-labelledby="dialog-title">
+      <div class="dialog-header">
+        <p class="eyebrow" id="dialog-eyebrow"></p>
+        <button class="icon-button" id="dialog-close" aria-label="Close dialog">
+          <span data-icon="x"></span>
+        </button>
+      </div>
+      <div id="dialog-content"></div>
+    </dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <div id="print-content"></div>
+    <noscript
+      ><div class="noscript">
+        Enable JavaScript to use the interactive charts. Original sources:
+        <a href="https://www.larkinestate.com/charts.html"
+          >Clarence Larkin Estate</a
+        >
+        ·
+        <a
+          href="https://www.wholesomewords.org/etexts/scofield/scofrdiv.pdf#page=10"
+          >Scofield’s Seven Dispensations</a
+        >.
+      </div></noscript
+    >
+  </body>
+</html>

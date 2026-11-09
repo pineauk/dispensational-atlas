@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#193b34" />
+    <meta
+      name="description"
+      content="Presentation views of Clarence Larkin and C. I. Scofield, with original source notes and downloadable slides."
+    />
+    <title>Presentation — Dispensational Atlas</title>
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/presentation.css" />
+    <script defer src="/data.js"></script>
+    <script defer src="/presentation-render.js"></script>
+    <script defer src="/presentation.js"></script>
+  </head>
+  <body>
+    <header class="present-header">
+      <a id="back-study" class="back-link" href="/" aria-label="Back to study"
+        >← <span>Back to study</span></a
+      >
+      <div class="present-identity">
+        <span class="wordmark">Dispensational Atlas</span
+        ><span class="edition">PRESENTATION EDITION</span>
+      </div>
+      <button
+        type="button"
+        class="primary"
+        id="fullscreen-button"
+        aria-pressed="false"
+      >
+        <span aria-hidden="true">⛶</span>
+        <span id="fullscreen-label">Full screen</span>
+      </button>
+    </header>
+    <main class="presentation-workspace">
+      <div class="present-toolbar" aria-label="Presentation controls">
+        <label class="study-select"
+          ><span class="sr-only">Study</span
+          ><select id="chart-select">
+            <option value="larkin-ages">Larkin · Ages and Dispensations</option>
+            <option value="larkin-dividing">
+              Larkin · Rightly Dividing the Word
+            </option>
+            <option value="scofield">Scofield · Seven Dispensations</option>
+          </select></label
+        >
+        <div class="toolbar-actions">
+          <button type="button" id="overview-button">Overview</button>
+          <button type="button" id="source-button">Source notes</button>
+          <label
+            ><span class="sr-only">Slide appearance</span
+            ><select id="theme-select">
+              <option value="light">Ivory</option>
+              <option value="dark">Forest</option>
+            </select></label
+          >
+          <details class="export-menu" id="export-menu">
+            <summary>Download <span aria-hidden="true">↓</span></summary>
+            <div class="export-options">
+              <button type="button" id="download-png">
+                Current slide · PNG (4K)</button
+              ><button type="button" id="download-svg">
+                Current slide · SVG</button
+              ><a
+                id="download-pptx"
+                href="/presentations/larkin-ages.pptx"
+                download
+                >Entire study · PowerPoint</a
+              >
+              <p>
+                SVG keeps sharp text at any size. PowerPoint text and diagrams
+                are editable.
+              </p>
+            </div>
+          </details>
+        </div>
+      </div>
+      <section
+        class="slide-stage"
+        aria-label="Presentation slide"
+        tabindex="0"
+        id="slide-stage"
+      >
+        <div id="slide-canvas"></div>
+      </section>
+      <nav class="slide-navigation" aria-label="Slide navigation">
+        <button
+          type="button"
+          class="nav-arrow"
+          id="previous-slide"
+          aria-label="Previous slide"
+        >
+          ←
+        </button>
+        <div
+          id="slide-list"
+          class="slide-list"
+          role="group"
+          aria-label="Choose a slide"
+        ></div>
+        <button
+          type="button"
+          class="nav-arrow"
+          id="next-slide"
+          aria-label="Next slide"
+        >
+          →
+        </button>
+      </nav>
+      <div class="presentation-bottom">
+        <p id="slide-status" aria-live="polite"></p>
+        <p class="keyboard-hint">
+          Arrow keys to advance <span>·</span> Home for overview
+          <span>·</span> F for full screen
+        </p>
+        <button type="button" class="text-action" id="scripture-button">
+          Read Scripture
+        </button>
+      </div>
+    </main>
+    <button
+      type="button"
+      id="exit-presentation"
+      class="exit-presentation"
+      hidden
+    >
+      Exit full screen <span aria-hidden="true">×</span>
+    </button>
+    <dialog id="presentation-dialog" aria-labelledby="dialog-heading">
+      <div class="dialog-top">
+        <p id="dialog-kicker">SOURCE NOTES</p>
+        <button type="button" id="dialog-close" aria-label="Close dialog">
+          ×
+        </button>
+      </div>
+      <div id="dialog-content"></div>
+    </dialog>
+    <div class="present-toast" id="present-toast" role="status" hidden></div>
+    <noscript
+      ><p>
+        Enable JavaScript for presentation mode, or
+        <a href="/presentations/larkin-ages.pptx"
+          >download Larkin’s Ages and Dispensations deck</a
+        >.
+      </p></noscript
+    >
+  </body>
+</html>

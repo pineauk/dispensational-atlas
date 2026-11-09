@@ -1,0 +1,18 @@
+[
+  {
+    "book": "Genesis",
+    "chapter": 11,
+    "verse": 3,
+    "decision": "Retain primary-source thoroughly; Bible Gateway KJV confirms this spelling. The independent corpus uses throughly.",
+    "verifiedPrimary": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter.",
+    "sourceUrl": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A3&version=KJV"
+  },
+  {
+    "book": "Revelation",
+    "chapter": 21,
+    "verse": 20,
+    "decision": "Retain primary-source chrysolyte; Bible Gateway KJV confirms this spelling. The comparison corpus uses chrysolite.",
+    "verifiedPrimary": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.",
+    "sourceUrl": "https://www.biblegateway.com/passage/?search=Revelation%2021%3A20&version=KJV"
+  }
+]
